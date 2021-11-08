@@ -1,6 +1,8 @@
 ---
 layout: narrative
-title: Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)
+title: Vita Concordii, presbyteris et martyris Spoleti in Umbria
+bhl: 1906
+feast: January 1
 author: Anonymous
 editor: Carson Koepke
 source: Editus ex Actis Sanctorum
