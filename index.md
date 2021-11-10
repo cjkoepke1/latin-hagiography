@@ -15,8 +15,8 @@ title: "Latin Hagiography"
 
 ### 1 (*Kal. Ian.*)
 
-- [Vita Clari, abbatis Viennensis in Gallia](https://cjkoepke1.github.io/tutorial/texts/vita-clari/)
-- [Vita Concordii, presbyteris et martyris Spoleti in Umbria](https://cjkoepke1.github.io/tutorial/texts/vita-concordii/)
+- [Vita Clari, abbatis Viennensis in Gallia (BHL 1825)](https://cjkoepke1.github.io/tutorial/texts/vita-clari/)
+- [Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)](https://cjkoepke1.github.io/tutorial/texts/vita-concordii/)
 
 ---
 
