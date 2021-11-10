@@ -13,7 +13,7 @@ title: "Latin Hagiography"
 
 ## January (*Mensis Ianuarius*)
 
-1. *Kal. Ian.*
+# 1. Kalendis Ianuariis
 
 - [Vita Clari, abbatis Viennensis in Gallia (BHL 1825)](https://cjkoepke1.github.io/tutorial/texts/vita-clari/)
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)](https://cjkoepke1.github.io/tutorial/texts/vita-concordii/)
