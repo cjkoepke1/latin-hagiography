@@ -3,7 +3,7 @@ layout: default
 title: "Latin Hagiography"
 ---
 
-## Welcome to this repository of Latin hagiography. The texts are organized by feast date as established in the *Acta Sanctorum*, which is the textual source of these digital editions. 
+## Welcome to this repository of medieval Latin hagiography. The texts are organized by feast date as established in the *Acta Sanctorum*, which is the textual source of these digital editions. 
 
 
 ---
