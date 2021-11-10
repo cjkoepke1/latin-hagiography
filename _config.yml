@@ -1,17 +1,17 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               'Tutorial'
-tagline:             'A tutorial edition'
-description:         'Tutorial uses the theme Ed designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               'Latin Hagiography'
+tagline:             'A preliminary digital edition'
+description:         'Latin Hagiography uses the theme Ed which is designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/tutorial'
+baseurl:             '/latin-hagiography'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Carson Koepke
+  url:               
+  email:             
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme:
