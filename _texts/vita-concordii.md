@@ -8,8 +8,12 @@ editor: Carson Koepke
 source: Editus ex Actis Sanctorum
 
 ---
+
 # BHL 1906
+
 ## Feast: January 1
+
+---
 
 1. Temporibus Antonini imperatoris gravissima persecutio orta est in urbe Roma; ita ut nec emendi, nec vendendi cuiquam licentia facile tribueretur, qui diis immolasset. Tunc erat in civitate Roma vir quidam, Concordius nomine, nobili familia ortus, cuius pater Gordianus dicebatur, sanctissima conversatione presbyter de titulo pastoris. Hic itaque habens filium Concordium, quem erudivit omni sanctae scripturae doctrina, fecit eum fieri subdiaconum a sancto Pio episcopo urbis Romae. Hic itaque beatus Concordius, cum patre suo, ad nihil vacabant aliud, nisi ieiuniis et orationibus diu noctuque, et eleemosynis pauperum insistentes; petebantque a Domino ut rabiem persecutorum possent evadere.
 
