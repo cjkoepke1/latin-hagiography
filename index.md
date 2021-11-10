@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ed."
+title: "Tutorial"
 ---
 
 # hi.
@@ -9,9 +9,9 @@ title: "Ed."
 ---
 
 
-## texts
+# Texts
 
-### January 1
+## January 1 (Kal. Ian.)
 
 - [Vita Clari, abbatis Viennensis in Gallia](https://cjkoepke1.github.io/tutorial/texts/vita-clari/)
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria](https://cjkoepke1.github.io/tutorial/texts/vita-concordii/)
