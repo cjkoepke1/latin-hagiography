@@ -9,9 +9,6 @@ source: Editus ex Actis Sanctorum
 
 ---
 
-# BHL 1825
-
-## Feast: January 1
 
 ---
 
