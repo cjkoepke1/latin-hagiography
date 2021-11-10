@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Tutorial"
+title: "Latin Hagiography"
 ---
 
-# hi.
+# Welcome to this repository of Latin hagiographical texts. The texts are organized by feast date as established in the *Acta Sanctorum*, which is the source of these digital editions. 
 
 
 ---
@@ -11,7 +11,9 @@ title: "Tutorial"
 
 # Texts
 
-## January 1 (Kal. Ian.)
+## January (Mensis Ianuarius)
+
+### 1 (Kal. Ian.)
 
 - [Vita Clari, abbatis Viennensis in Gallia](https://cjkoepke1.github.io/tutorial/texts/vita-clari/)
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria](https://cjkoepke1.github.io/tutorial/texts/vita-concordii/)
