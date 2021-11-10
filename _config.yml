@@ -5,7 +5,7 @@ title:               'Latin Hagiography'
 tagline:             'A preliminary digital edition'
 description:         'Latin Hagiography uses the theme Ed which is designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/latin-hagiography'
+baseurl:             '/tutorial'
 
 # About/contact
 author:
