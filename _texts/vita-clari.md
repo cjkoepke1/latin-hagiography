@@ -10,8 +10,10 @@ source: Editus ex Actis Sanctorum
 ---
 
 # BHL 1825
+
 ## Feast: January 1
 
+---
 
 ### Caput I. *Clarus a puero sanctus, precibus tempestatem sedat.*
 
