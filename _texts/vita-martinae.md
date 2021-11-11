@@ -8,6 +8,8 @@ source: Editus ex Actis Sanctorum
 
 ---
 
+---
+
 ### Caput I. *Sanctae Martinae genus. Apollinis statua eversa.*
 
 §1) Regnante primo omnium in ambitu totius orbis Domino et salvatore nostro Iesu Christo, militaturus adversarius diabolus perniciter adversus servos Domini nostri Iesu Christi praevaluit sub regno Alexandri Caesaris, in quarto anno imperii eius. Proponens autem Alexander praeceptum novum et pessimum, in toto orbe, ut aut sacrificent Galilaei, aut si non sacrificaverint morti tradantur. Direxit vero praesides et iudices inductos daemoniaca seductione. Erat enim praeceptum per loca propositum cum fervente comminatione, quatenus dissiparetur Christianorum cultus, erantque comminantes cum terrore ut perficere haec possent. Qui vero talia susceperunt praecepta, in multis imperialibus describentes, atque imperialem imaginem deferentes, novam propositionem per sacrificia nequissimorum ac pollutorum deorum suorum demonstrantes erant; quam praecepit imperator fieri, et consentientes immolare honoribus magnis effici dignos; contemptores vero et nolentes immolare, tormentis crudelibus submitti ac mori.
