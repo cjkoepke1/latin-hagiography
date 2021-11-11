@@ -1,4 +1,5 @@
 ---
+layout: narrative
 title: Vita Martinae, virginis et martyris Romae
 bhl: 5587
 feast: January 1
