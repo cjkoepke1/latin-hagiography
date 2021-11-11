@@ -48,4 +48,6 @@ source: Editus ex Actis Sanctorum
 
 §12) Appropinquante hora exitus sui, psalterium idem decantare coepit. Ut ergo fratres, finitis psalmis, dixerunt, "Omnis spiritus laudet Dominum,"[^1] cum luce odor ineffabilis totam cellam, ubi sanctus Dei iacebat, replevit: sicque beata anima carne soluta, migravit ad Dominum. Mansit autem idem odor usque ad locum sepulchri. Quo cum ferretur quidam paralysi dissolutus, admotus feretro beati viri, in conspectu omnium illico sanatus est. Sepultus autem est in ecclesia beatae martyris Blandinae, sanctorum que martyrum quadraginta octo, ante altare, ubi miraculis clarus diu iacuit. Obitus autem eius agitur Kalendis Ianuariis.
 
+---
+
 [^1]: Psalm 150:6. This is the final verse of the Book of Psalms.
