@@ -1,5 +1,5 @@
 ---
-format: narrative
+layout: narrative
 title: Vita Fulgentii, episcopi Ruspensis in Africa
 bhl: 3208
 author: Anonymous
