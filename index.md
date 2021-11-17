@@ -22,7 +22,7 @@ title: "Latin Hagiography"
 
 ### 2. Ante diem IV Non. Ian.
 
-- [Passio Frontasii, Severini, Severiani et Silani, martyres in Gallia (BHL 3181)(https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii)
+- [Passio Frontasii, Severini, Severiani et Silani, martyres in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii)
 
 ---
 
