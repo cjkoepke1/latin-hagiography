@@ -17,7 +17,7 @@ title: "Latin Hagiography"
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-concordii/)
 - [Vita Fulgentii, episcopi Ruspensis in Africa (BHL 3208)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-fulgentii)
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
-- [Vita Mochuae](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
+- [Vita Mochuae sive Cuanus, abbas Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
 
 ---
 
