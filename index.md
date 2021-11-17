@@ -20,6 +20,10 @@ title: "Latin Hagiography"
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
 - [Vita Mochuae sive Cuani, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
 
+### 2. Ante diem IV Non. Ian.
+
+- [Passio Frontasii, Severini, Severiani et Silani, martyres in Gallia (BHL 3181)(https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii)
+
 ---
 
 This website uses Ed, a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on [minimal computing principles](http://go-dh.github.io/mincomp/), and focused on legibility, durability, ease and flexibility. The underlying technology is easy to learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant to last.
