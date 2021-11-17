@@ -18,9 +18,9 @@ source: Editus ex Actis Sanctorum
 
 §3) Nec timendum est, ne minore facundia sacerdotem, qui per universas orbis ecclesias magnum nomen obtinuit, ego faciam parvum. Cuiuslibet enim sit meriti oratio mea, nec augere poterit tanti viri merita, nec minuere: sed proficere tantummodo ad caritatis testimonium, in qua illi semper inhaerere desiderans, salutiferis eius monitis ad suscipiendam monachorum professionem conversus, in illo parvissimo monasterio, quod sibi apud Sardiniam pro Christi nomine relegatus effecerat, ubi iam tu presbyter habitabas, diebus ac noctibus ante eum positus vixi: quando me super mel et favum dulciora caelestis eius eloquii flumina frequenter rigabant, et nisi sterilitas arentis ingenii praepediret, centesimum fructum gleba nostri pectoris attulisset. Sed indignus ego, de tanta plenitudine vix exiguam capere valui portionem. Tuae tamen paternitatis orationibus fretus, libelli praesentis laborem suscipere cogitavi: in quo omnia, quae memoriter nobis audientibus ipse referebat, et illa insuper, quae oculis nostris adspeximus, ut iam positi in doctrina illius, quemadmodum sint gesta, non ignoramus, breviter explicabo: notam falsitatis incurrere nullatenus times, cuncta quippe senilem tuam paternitatem minime latent; nec tibi nunc aliqua quasi nescienti dicuntur, sed tuo potius testimonio confirmanda simpliciter digeruntur.
 
+---
 
 ## Vita
-
 
 ### Caput I. *Beati Fulgentii ortus, institutio, munus in repub.*
 
