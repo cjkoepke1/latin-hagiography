@@ -26,4 +26,4 @@ title: "Latin Hagiography"
 
 ---
 
-This website uses Ed, a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on [minimal computing principles](http://go-dh.github.io/mincomp/), and focused on legibility, durability, ease and flexibility. The underlying technology is easy to learn and teach, and can produce beautifully rendered scholarly or reading editions of texts meant to last.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
