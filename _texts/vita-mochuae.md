@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Vita Mochuae sive Cuanus, abbas Laegsiensis in Hibernia
+title: Vita Mochuae sive Cuani, abbatis Laegsiensis in Hibernia
 bhl: 5977
 author: Anonymous
 feast: January 1
