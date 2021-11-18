@@ -7,7 +7,7 @@ title: "Latin Hagiography"
 
 ---
 
-# Texts
+# Contents
 
 ## January (*Mensis Ianuarius*)
 
