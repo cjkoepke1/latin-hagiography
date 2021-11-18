@@ -3,7 +3,7 @@
 # Setup
 title:               'Latin Hagiography'
 tagline:             'A preliminary digital legendarium'
-description:         'Latin Hagiography uses the theme Ed which is designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+description:         'Latin Hagiography uses the Jekyll theme Ed which is designed for textual editors. Ed is based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/latin-hagiography'
 
