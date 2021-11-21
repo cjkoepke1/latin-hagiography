@@ -11,7 +11,7 @@ title: "Latin Hagiography"
 
 ## January (*Mensis Ianuarius*)
 
-### 1. Kalendis Ianuariis
+### 1. Kalendae Ianuariae
 
 - [Vita Clari, abbatis Viennensis in Gallia (BHL 1825)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-clari/)
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-concordii/)
@@ -21,7 +21,7 @@ title: "Latin Hagiography"
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
 - [Vita Mochuae sive Cuani, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
 
-### 2. Ante diem IV Non. Ian.
+### 2. Ante diem IV Nonas Ianuarias
 
 - [Passio Frontasii, Severini, Severiani et Silani, martyres in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii)
 
