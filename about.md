@@ -9,7 +9,7 @@ This website is meant to serve as an online repository for hagiography of Late A
 
 More texts will be added over time as they are prepared. 
 
-### A note on spelling and punctuation
+## A note on spelling and punctuation
 
 Classical orthography has been used throughout, although *v* and *u* are distinguished while *i* and *j* are not. Names of persons and places are capitalized as well as the intial letters of sentences. Otherwise, minuscule characters are used. Quotation marks are employed to offset dialogue.
 
@@ -17,7 +17,7 @@ Chapter and section breaks follow those established by the editors of the *Acta 
 
 ---
 
-### Using Ed
+## Using Ed
 
 To learn how to use Ed for your own digital editing project, visit the
 [documentation page](http://minicomp.github.io/ed/documentation).
