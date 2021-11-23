@@ -19,7 +19,7 @@ title: "Latin Hagiography"
 - [Vita Fulgentii, episcopi Ruspensis in Africa (BHL 3208)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-fulgentii/)
 - [Vita Guilielmi, abbatis Divionensis in Burgundia (BHL 8907)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-guilielmi)
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
-- [Vita Mochuae sive Cuani, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
+- [Vita Mochuae, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
 
 ### 2. Ante diem IV Nonas Ianuarias
 
