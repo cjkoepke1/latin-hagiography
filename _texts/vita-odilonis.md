@@ -81,10 +81,8 @@ source: Acta Sanctorum
 §22) In pauperes ita munificus erat, ut aliquando non dispensatorem, sed et profusum videres largitorem. Etenim magis delectabatur in faciendis eleemosynis, quam aliquis gratulari possit in acquirendis pecuniis. Et quid dicam? Caecorum baculus, esurientium cibus, spes miserorum, solamen lugentium fuit. Misericordiae enim visceribus ultra quam dici possit affluebat: et quantum in se fuit nullum a beneficio misericordiae excludebat. Et sicut in epitaphio Sabiniani papae legitur:
 
 - {:.indent-2}Hic hominum vitia blando sermone removit,
-
 - {:.indent-4}Nec culpis iudex, sed medicina fuit.
-
-{:.poem}
+{:.poetry}
 
 §23) Erat certe in hac virtute in tantum diffusus, ut ab imprudentibus in officio huius virtutis diiudicaretur nimius. Sed ille ad hoc obiectum, eleganter alludere solitus erat: “Ego,” inquit, “volo magis de misericordia misericorditer iudicari, quam de crudelitate crudeliter damnari.” Ut enim ait Ambrosius, Bonus est misericors homo, qui dum aliis subvenit, sibi consulit; et in alieno remedio vulnera sua curat. Agnoscit enim se esse hominem qui novit ignoscere. Et vias Christi sequitur, qui carne suscepta maluit in hunc mundum redemptor venire, quam iudex. Unde et iste vir sanctus, ut praediximus, malebat esse culparum indultor, quam iudex.
 
