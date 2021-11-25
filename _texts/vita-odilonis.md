@@ -82,7 +82,7 @@ source: Acta Sanctorum
 
 - {:.indent-2}Hic hominum vitia blando sermone removit,
 - {:.indent-4}Nec culpis iudex, sed medicina fuit.
-{:.verse}
+{:.poem}
 
 §23) Erat certe in hac virtute in tantum diffusus, ut ab imprudentibus in officio huius virtutis diiudicaretur nimius. Sed ille ad hoc obiectum, eleganter alludere solitus erat: “Ego,” inquit, “volo magis de misericordia misericorditer iudicari, quam de crudelitate crudeliter damnari.” Ut enim ait Ambrosius, Bonus est misericors homo, qui dum aliis subvenit, sibi consulit; et in alieno remedio vulnera sua curat. Agnoscit enim se esse hominem qui novit ignoscere. Et vias Christi sequitur, qui carne suscepta maluit in hunc mundum redemptor venire, quam iudex. Unde et iste vir sanctus, ut praediximus, malebat esse culparum indultor, quam iudex.
 
