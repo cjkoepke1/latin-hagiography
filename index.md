@@ -33,13 +33,14 @@ title: "Latin Hagiography"
 
 ### 4. Pridie Nonas Ianuarias
 
-- [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis)
+- [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis/)
 
 ### 5. Nonae Ianuariae
 
 
 ### 6. A.d. VIII Idus Ianuarias
 
+- [Passio et translatio Macrae, virginis et martyris in territorio Remensi (BHL 5126–5127)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-macrae/)
 
 ## February (*Mensis Februarius*)
 
