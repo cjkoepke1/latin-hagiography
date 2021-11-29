@@ -28,7 +28,16 @@ title: "Latin Hagiography"
 
 ### 3. A.d. III Non. Ian.
 
+- [Inventio Danielis, levitae et martyris Patavii (BHL 2092)](https://cjkoepke1.github.io/latin-hagiography/texts/inventio-danielis/)
 - [Passio Petri Balsami, martyris in Palaestina (BHL 6702)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-balsami/)
+
+### 4. Pridie Nonas Ianuarias
+
+
+### 5. Nonae Ianuariae
+
+
+### 6. A.d. VIII Idus Ianuarias
 
 
 ## February (*Mensis Februarius*)
