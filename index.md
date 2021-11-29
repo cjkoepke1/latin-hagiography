@@ -33,6 +33,7 @@ title: "Latin Hagiography"
 
 ### 4. Pridie Nonas Ianuarias
 
+- [Vita Neophytae virginis et martyris (BHL 6051)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-neophytae/)
 - [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis/)
 
 ### 5. Nonae Ianuariae
