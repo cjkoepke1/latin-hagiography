@@ -24,7 +24,12 @@ title: "Latin Hagiography"
 
 ### 2. Ante diem IV Nonas Ianuarias
 
-- [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii)
+- [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii/)
+
+### 3. A.d. III Non. Ian.
+
+- [Passio Petri Balsami, martyris in Palaestina (BHL 6702)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-balsami/)
+
 
 ## February (*Mensis Februarius*)
 
