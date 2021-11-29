@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Passio Frontasii, Severini, Severiani et Silani, martyres in Gallia
+title: Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia
 bhl: 3181
 feast: January 2
 author: Anonymous
