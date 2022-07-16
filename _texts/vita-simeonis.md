@@ -1,4 +1,3 @@
-
 ---
 layout: narrative
 title: Vita Simeonis Stylitae iuxta Antiochiam in Syria
