@@ -38,6 +38,7 @@ title: "Latin Hagiography"
 
 ### 5. Nonae Ianuariae
 
+- [Vita Simeonis Stylitae iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
 
 ### 6. A.d. VIII Idus Ianuarias
 
