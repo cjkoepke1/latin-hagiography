@@ -29,6 +29,7 @@ title: "Latin Hagiography"
 ### 3. A.d. III Non. Ian.
 
 - [Inventio Danielis, levitae et martyris Patavii (BHL 2092)](https://cjkoepke1.github.io/latin-hagiography/texts/inventio-danielis/)
+- [Passio Melori martyris in Anglia (BHL 5905)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-melori/)
 - [Passio Petri Balsami, martyris in Palaestina (BHL 6702)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-balsami/)
 - [Passio Theogenis, Primi et Cyrini, martyrum in Hellesponto (BHL 8107)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-theogenis/)
 
