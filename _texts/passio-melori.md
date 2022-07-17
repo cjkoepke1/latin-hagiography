@@ -7,7 +7,7 @@ author: John Capgrave
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
-
+---
 
 §1) Dum in exordio Christianae fidei apostolica doctrina per orbem terrarum in omnibus gentibus diffunderetur, conversa est Brittaniae gentilitas ad fidem, et multi Domino credentes, et apostolica praecepta sequentes variis virtutum miraculis fulserunt: de quorum numero beatum Melorum fidenter credimus extitisse.
 
