@@ -7,7 +7,7 @@ author: Anonymous
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
-
+---
 
 §1) Multi martyres vicerunt diabolum, et omnes adinventiones eius in nomine Domini Iesu Christi, qui coronavit eos; inter quos annumerare dignatus est Theogenem beatissimum martyrem, qui sic irrisum vicit inimicum. Tempore enim Licinii paganissimi tyranni comprehensus est in Phrygia, cum esset episcopi filius, et perductus est ad legionem quae dicitur Secunda Traiana, ad tribunum Zilicentium, et praepositum Possidonium, quae legio considebat in Cyzico, quae est prima Hellesponti; et cogebatur militare a tribuno Zilicentio et praeposito Possidonio. Ille autem miles fidelissimus veri Dei, plenus Spiritu sancto, constanter in medio legionis dixit: “Ego christianus sum, et milito meo regi, qui est rex regum: illi militans, alii militare non possum.” Tribunus Zilicentius dixit: “Magis accipe chlamydem et baltheum, et omnia arma felicia, et milita Licinio magno imperatori.” Theogenes dixit: “Iam tibi dixi, milito ego meo regi; alii militare non possum.” Tribunus dixit: “Non placet tibi Licinius imperator?” Theogenes dixit: “Non novi, ego christianus sum, et non convenit mihi huic saeculo militare, cui abrenuntiavi: sed neque possum negare regem esse aeternum, cui milito.” Tribunus dixit: “Ecce et isti omnes qui adstant milites, christiani sunt, et tamen militant.” Theogenes dixit: “Unusquisque scit quomodo militet, ego etiam novi cui militem regi.”
 
