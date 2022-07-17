@@ -18,9 +18,9 @@ title: "Latin Hagiography"
 - [Vita Eugendi, abbatis monasterii Sancti Claudii in Burgundia (BHL 2665)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-eugendi/)
 - [Vita Fulgentii, episcopi Ruspensis in Africa (BHL 3208)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-fulgentii/)
 - [Vita Guilielmi, abbatis Divionensis in Burgundia (BHL 8907)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-guilielmi/)
-- [Vita Odilonis, abbatis Cluniacensis Silviniaci in Gallia (BHL 6281)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-odilonis/)
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
 - [Vita Mochuae, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
+- [Vita Odilonis, abbatis Cluniacensis Silviniaci in Gallia (BHL 6281)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-odilonis/)
 
 ### 2. Ante diem IV Nonas Ianuarias
 
