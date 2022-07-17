@@ -30,6 +30,7 @@ title: "Latin Hagiography"
 
 - [Inventio Danielis, levitae et martyris Patavii (BHL 2092)](https://cjkoepke1.github.io/latin-hagiography/texts/inventio-danielis/)
 - [Passio Petri Balsami, martyris in Palaestina (BHL 6702)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-balsami/)
+- [Passio Theogenis, Primi et Cyrini, martyrum in Hellesponto (BHL 8107)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-theogenis/)
 
 ### 4. Pridie Nonas Ianuarias
 
