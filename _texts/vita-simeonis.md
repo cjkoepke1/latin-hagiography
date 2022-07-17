@@ -8,6 +8,8 @@ editor: Carson Koepke
 source: Acta Sanctorum
 ---
 
+---
+
 ### Caput I. *Sanctus Simeon salutis studio fit monachus.*
 
 §1) Sanctus Simeon ex utero matris suae a Domino electus est, et meditabatur a pusillo opera placentia Deo. Is erat filius cuiusdam Hesychii nomine: mater autem eius Mathana dicta est. A quibus diligentissime nutritus, cum esset annorum tredecim, ad similitudinem beatus David pascebat oves patris sui.
