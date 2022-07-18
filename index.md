@@ -11,7 +11,7 @@ title: "Latin Hagiography"
 
 ## January (*Mensis Ianuarius*)
 
-### 1. Kalendae Ianuariae
+### 1. Kalendis Ianuariis
 
 - [Vita Clari, abbatis Viennensis in Gallia (BHL 1825)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-clari/)
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-concordii/)
@@ -39,13 +39,27 @@ title: "Latin Hagiography"
 - [Vita Neophytae virginis et martyris (BHL 6051)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-neophytae/)
 - [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis/)
 
-### 5. Nonae Ianuariae
+### 5. Nonis Ianuariis
 
 - [Vita Simeonis Stylitae iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
 
 ### 6. A.d. VIII Idus Ianuarias
 
 - [Passio et translatio Macrae, virginis et martyris in territorio Remensi (BHL 5126–5127)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-macrae/)
+
+### 7. A.d. VII Idus Ianuarias
+
+### 8. A.d. VI Idus Ianuarias
+
+### 9. A.d. V Idus Ianuarias
+
+### 10. A.d. IV Idus Ianuarias
+
+### 11. A.d. III Idus Ianuarias
+
+### 12. Pridie Idus Ianuariae
+
+### 13. Idibus Ianuariis
 
 ## February (*Mensis Februarius*)
 
