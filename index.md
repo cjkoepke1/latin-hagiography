@@ -47,17 +47,17 @@ title: "Latin Hagiography"
 
 - [Passio et translatio Macrae, virginis et martyris in territorio Remensi (BHL 5126–5127)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-macrae/)
 
-### 7. A.d. VII Idus Ianuarias
+### 7. A.d. VII Id. Ian.
 
-### 8. A.d. VI Idus Ianuarias
+### 8. A.d. VI Id. Ian.
 
-### 9. A.d. V Idus Ianuarias
+### 9. A.d. V Id. Ian.
 
-### 10. A.d. IV Idus Ianuarias
+### 10. A.d. IV Id. Ian.
 
-### 11. A.d. III Idus Ianuarias
+### 11. A.d. III Id. Ian.
 
-### 12. Pridie Idus Ianuariae
+### 12. Pridie Idus Ianuarias
 
 ### 13. Idibus Ianuariis
 
