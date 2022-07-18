@@ -61,6 +61,10 @@ title: "Latin Hagiography"
 
 ### 13. Idibus Ianuariis
 
+### 14. A.d. XIX Kalendas Februarias
+
+### 15. A.d. XVIII Kal. Feb.
+
 ## February (*Mensis Februarius*)
 
 ## March (*Mensis Martius*)
