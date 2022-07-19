@@ -9,6 +9,8 @@ title: "Latin Hagiography"
 
 # Contents
 
+---
+
 ## January (*Mensis Ianuarius*)
 
 ### 1. Kalendis Ianuariis
