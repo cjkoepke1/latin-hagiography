@@ -39,13 +39,13 @@ title: "Latin Hagiography"
 ### 4. Pridie Nonas Ianuarias
 
 - [Translatio Faustae, virginis et martyris in Aquitania (BHL 2832)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-faustae/)
-- [Vita Neophytae virginis et martyris (BHL 6051)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-neophytae/)
+- [Vita Neophytae, virginis et martyris (BHL 6051)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-neophytae/)
 - [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis/)
 - [Acta Theopempti, episcopi et martyris Nicomediae (BHL 8119)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-theopempti/)
 
 ### 5. Nonis Ianuariis
 
-- [Vita Simeonis Stylitae iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
+- [Vita Simeonis Stylitae, iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
 
 ### 6. A.d. VIII Idus Ianuarias
 
