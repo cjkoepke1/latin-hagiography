@@ -71,25 +71,47 @@ title: "Latin Hagiography"
 
 - [Rhythmus de casula Boniti, episcopi Arvernorum in Gallia (BHL 1420)](https://cjkoepke1.github.io/latin-hagiography/texts/rhythmus-casula-boniti/)
 
+---
+
 ## February (*Mensis Februarius*)
+
+---
 
 ## March (*Mensis Martius*)
 
+---
+
 ## April (*Mensis Aprilis*)
+
+---
 
 ## May (*Mensis Maius*)
 
+---
+
 ## June (*Mensis Iunius*)
+
+---
 
 ## July (*Mensis Iulius*)
 
+---
+
 ## August (*Mensis Augustus*)
+
+---
 
 ## September (*Mensis September*)
 
+---
+
 ## October (*Mensis October*)
 
+---
+
 ## November (*Mensis November*)
+
+---
 
 ## December (*Mensis December*)
 
