@@ -1,0 +1,25 @@
+---
+layout: narrative
+title: Acta Felicis, confessoris et presbyteri Romani Nolae
+bhl: 2885
+feast: January 14
+author: Anonymous
+editor: Carson Koepke
+source: Acta Sanctorum
+---
+
+---
+
+§1) Factum est post completionem beatissimi Felicis presbyteri, alius Felix germanus eius iunior nomine et actione, et ipse presbyter, cum adductus fuisset ad iniquissimum Draccum urbis praefectum, coepit eum compellere ut idolis immolaret. Quibus beatus Felix presbyter ait: “Puto, quod estis inimici deorum vestrorum effecti, ad quoscumque me duxeritis in deorum templis, hoc eis eveniet, quod illis evenit, ad quos meum fratrem vos duxisse iam poenitet. Sed si vultis probare virtutem Domini mei Iesu Christi, ad Capitolium ire me iubete, ut ipsum Iovem principem daemoniorum vestrorum ruere faciam.”
+
+§2) Audiens haec Draccus praefectus clausit aures suas, et iubet eum fustibus caedi, atque exilio deportari in montem, qui vocatur Circeius, ubi lapides quadrati excidebantur, ut ibidem omnibus diebus vitae suae sanctus Felix hoc faceret. Adveniens igitur in praedictum locum, invenit ibidem cuiusdam Probi tribuni, qui praeerat loco, filiam a daemonio vexari. Qui invocato nomine Domini Iesu Christi, statim filia eius salvata est. Tunc Probus tribunus cum vidisset hoc miraculum factum in eius filia, misit se ad pedes eius, clamans et dicens: “Vere tu verus es homo Dei sanctus.” Et exinde iam non permisit penitus, ut ibi iniuriae subiaceret. Erat autem iste tribunus et nomine et opere Probus, civis Nolanus: cui etiam nuntiatum est quod uxor eius morbum hydropicum incurrisset. Cui sanctus Felix ait: “Noli tristari, tu tantummodo crede quod Christus meus verus est Deus, et salva erit uxor tua.” Qui cum diceret, “Credo,” benedicens oleum, misit ad eam, ex quo peruncta post triduum salva facta est. 
+
+§3) Tunc collega Probi tribuni perrexit ad consularem, et ita egit, ut eum vinctum duceret, quod eum Christum confitentem audivit. Venientes autem ex officio ut eum tenerent, manus eorum in dolorem conversae sunt, ita ut ululatum dirae vocis emitterent. Quibus beatus Felix ait: “Dicite, quia Christus verus est Deus, et dimittet vos dolor.” Qui cum clamarent, “Verus est Christus Deus,” statim a dolore liberati sunt. Universi autem qui aderant crediderunt Domino, et baptizati sunt.
+
+§4) Expleto autem tribunitii sui tempore Probus una cum sancto Felice reversus est Nolam. Erat autem ibi pontifex daemonum, qui quasi divinabat miseris et paganis hominibus. Hic videns sanctum Felicem, cecidit ad pedes eius dicens: “Domine, vidit te Deus meus venientem, et fugit; cui cum dicerem, ‘Quare fugis?’, respondit mihi: ‘Virtutem huius Felicis, qui cum Probo tribuno venit, ferre nullatenus possum.’ Si ergo Deus meus sic te timet, quanto magis ego te timere et venerari debeo?” Dicit ei beatus Felix: “Ego servus Christi sum, ipsum time et venerare.” Qui audiens credidit Christo. Cum autem ibi maneret sanctus Felix, et hortum sibi excoleret, venerunt nocte qui eius olera raperent: et invenientes ibi vangas, tota nocte, Luna lucente, laboraverunt. Videbatur autem eis, quod furtum facerent. Illi autem mane inventi sunt laborantes. Quos cum vidisset sanctus Felix, ait eis: “Adiuvet vos Dominus, filioli.” Illi autem mittentes se ad pedes eius confessi sunt quid voti eorum fuisset, et quid Dominus procurasset.
+
+§5) Factum est autem deinceps ut veniret sanctus Felix ad templum, quod in vicino erat, in quo divinus esse dicebatur Apollo daemon paganorum. Et videns populum intrantem, dicit eis: “Si vere divinus est Apollo, dicat mihi, quid ego clausa manu retineo.” Erat autem in manu eius Evangelium breve, in quo erat scriptura orationis Dominicae. Et cum non posset ullus indicare, nec sacerdos, nec vates eorum, minister Apollinis, dixit ad eos sanctus Felix: “Miseri quid erratis: dicite mihi quid vobis praestat Apollo iste ut eum colatis?” Qui dixerunt: “Furta detegit, et divinat siquis alicuius laesionis quaerit articulum.” Quibus sanctus Felix dixit: “Haec a Domino Iesu Christo melius consequemini; sed in eiusdem Apollinis deiectione non contristemini. Ego enim ei impero, ut ultra non audeat vobis dare responsa.” Videntes autem pagani a nullo eis dari responsum, sed magis a sancto Felice in omnibus mirabilia magna fieri, caecos illuminari, daemonia effugari, variis languoribus detentos curari, atque vicinos morti per eius orationes ad vitam restitui; proiecerunt simulachrum Apollinis in pavimentum, et in eodem loco oratorium fabricantes, crediderunt uniuersi Domino Iesu Christo.
+
+§6) Supervixit autem beatissimus Felix presbyter, in eadem civitate per annos duodecim. Quicumque autem ibi veniebat ex paganis, ut christianum exinde rapere conaretur, et in iudicium offerret, statim a daemonio replebatur. Cumque Christo credidisset, a sancto Felice mundatus, Deo gratias referens, christianus abscedebat, qui paganus advenerat. Post duodecim vero annos, ipsa die Dominica, confectis mysteriis dansque pacem universo populo, proiiciens se in pavimentum in orationem, perrexit ad Dominum Iesum Christum, qui vivit et regnat cum Deo Patre in unitate Spiritus sancti per immortalia saecula saeculorum, Amen.
+
+---
