@@ -67,6 +67,8 @@ title: "Latin Hagiography"
 
 ### 14. *A.d. XIX Kalendas Februarias*
 
+- [Acta Felicis, confessoris et presbyteri Romani Nolae (BHL 2885)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-felicis-romani/)
+
 ### 15. *A.d. XVIII Kal. Feb.*
 
 - [Rhythmus de casula Boniti, episcopi Arvernorum in Gallia (BHL 1420)](https://cjkoepke1.github.io/latin-hagiography/texts/rhythmus-casula-boniti/)
