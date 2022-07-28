@@ -67,6 +67,7 @@ title: "Latin Hagiography"
 
 ### 14. *A.d. XIX Kalendas Februarias*
 
+- [Vita Engelmari, eremitae et martyris in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/vita-engelmari/)
 - [Acta Felicis, confessoris et presbyteri Romani Nolae (BHL 2885)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-felicis-romani/)
 
 ### 15. *A.d. XVIII Kal. Feb.*
