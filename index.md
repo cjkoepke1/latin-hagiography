@@ -65,6 +65,7 @@ title: "Latin Hagiography"
 
 ### 13. *Idibus Ianuariis*
 
+- [De Euticio, abbate Balmae in Burgundia](https://cjkoepke1.github.io/latin-hagiography/texts/de-euticio-abbate/)
 - [Acta Gumesindi presbyteri et Servi Dei monachi, martyrum Cordubae in Hispania](https://cjkoepke1.github.io/latin-hagiography/texts/acta-gumesindi/)
 
 ### 14. *A.d. XIX Kalendas Februarias*
