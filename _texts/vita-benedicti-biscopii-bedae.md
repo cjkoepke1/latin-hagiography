@@ -31,5 +31,3 @@ source: Acta Sanctorum ex homilia Bedae
 [^1]: Matthew 19:29.
 [^2]: Matthew 19:29.
 [^3]: See Revelation 4 and 14.
-
----
