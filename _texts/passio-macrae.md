@@ -1,7 +1,7 @@
 ---
 layout: narrative
-title: Passio et translatio Macrae, virginis et martyris in territorio Remensi
-bhl: 5126–5127
+title: Passio Macrae, virginis et martyris in territorio Remensi
+bhl: 5126
 feast: January 6
 author: Anonymous
 editor: Carson Koepke
@@ -9,8 +9,6 @@ source: Acta Sanctorum
 ---
 
 ---
-
-## Passio
 
 §1) Cum saevissima in Christianos persecutio paene per totum orbem diffunderetur, scelestus quidam, nomine Rictiovarus, a Diocletiano et Maximiano imperatoribus in Galliam mittitur, ut religionem Christianorum penitus aboleret. Qui cum iussis principum pareret, et ad provinciam civitatis Augustanae venisset; ibi quamdam sacratissimam virginem, nomine Macram, invenit Iesum Christum Dominum nostrum sine intermissione incredulis praedicantem. Quam iussit comprehendi, et ante suum tribunal exhibitam sic affatus est: “Audio te, o femina, quamdam novae legis superstitionem hominibus propalare; quod videlicet crucifixus quidam Deus possit esse et homo. Volo ergo te scire, a sacratissimis imperatoribus legem esse prolatam, qua sancitum et magna deliberatione praefixum est, ut omnis qui Iovis imaginem venerari, imo adorare renuerit, insuperabilibus tormentis addicatur. Quapropter consule tibi, ne iuventutis tuae florem amittas. Si vero meis consiliis acquiescens, diis invictissimis immolaveris, multos a me honores accipies, insuper et ab Imperatore praemiis multis ditaberis.” Cui Macra respondit: “Pecunia mea est Christus filius Dei, apud quem tu iam condemnatus haberis. Ignoras quid Simoni Mago contigerit, qui putavit donum Dei pecunia possideri; licet ille, quamquam frustra, donum Dei quaesierit? Tu tamen eadem malitia fultus fidelem ancillae Christi sensum avertere nequibis: sed sicut tunc Simonis pater, sic et nunc itidem pater tuus non invictus abibit: ideoque pecunia tua tecum sit in perditione.”
 
@@ -25,9 +23,3 @@ source: Acta Sanctorum
 §6) In crastinum vero praeses sedens pro tribunali, accersiri illam praecepit: et videns pristinae sanitati redditam dixit: “Macra, quis te incolumitati reddidit?” Quae respondit: “Dominus Deus omnipotens Iesus Christus, qui super omnia potens est, ipse me sanavit.” Ait praeses: “Adhuc insanis, et Christum nominare non times?” Beatissima martyr dixit: “Ego labiis et corde profiteor Christum semper esse filium Dei vivi, eumque invocare non cesso: neque enim timeo.” Tunc iussit tyrannus acutissimas testas expandi, et prunas immitti, ac virginis corpus desuper volutari. Et cum supra prunas volveretur, eius animi calor invictus Domini memor semper factus est. Unde etiam expansis manibus ad Dominum oravit dicens: “Domine Iesu Christe, qui me in ergastulo positam ferrea vincula vincere fecisti, et ignem corpori meo illatum adinstar roris suavem reddidisti; te deprecor, ut animam meam nunc suscipias; quia iam tempus est ut dimittas spiritum meum in pace.” Quibus dictis, anima caelum petiit VI Nonas Martii, regnante Domino nostro Iesu Christo, cui est honor et gloria in saecula saeculorum, Amen.
 
 ---
-
-## Translatio
-
-§7) Per idem vero tempus, cum adhuc Christiana religio modica haberetur, ab incuriosis corpus eius non curiose tractatum est. Tumulatum est autem illud haud procul a loco, ubi martyrii palmam acceperat. Porro multa post curricula annorum cuidam bubulco, Lendulpho nomine, locus, quo beatissima virgo condita erat, iuxta quamdam ecclesiam in honorem beati Martini constructam, per visionem ostensus est: in quo etiam visu ille est admonitus, ut corpus sacratissimae virginis intra praefatam ecclesiam terrae honorificentius commendaret; et dicebat, quatenus incolis eiusdem loci innotesceret. Quod postmodum a prudentissimis et Deo amabilibus viris magno cum decore peractum est: et quamdiu in ea venerabile corpus requievit, insignia miracula per sanctae virginis intercessiones patrata sunt; caecis, claudis, surdis plenam Domino largiente perfectionem et sanitatem.
-
-§8) Denique cum ab origine protoplasti non defuerint, qui vineam Domini solerti cura excolerent, ita ut iam eminentes palmites longe lateque diffusi crebrescerent; extitit vir quidam venerabilis, Dangulfus nomine, cui merito laus ab hominibus et merces a Deo rependitur, cum praesertim sacrarum aedium strenuus cultor et conditor haberetur. Is ob amorem et honorem factoris sui, domum ei miro splendore fundavit: in quam sacratissimae virginis Macrae corpus, de ecclesiola, ubi primum fuerat collocatum, ab eodem viro Dei gloriose perlatum est III Kalendas Iunii, regnante excellentissimo imperatore summo orthodoxo Carolo. Ubi non minima, ut superius relatum est, patrantur miracula, ad laudem Domini nostri Iesu Christi, qui vivit et regnat in sempiterna saecula saeculorum, Amen.
