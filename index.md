@@ -69,6 +69,7 @@ title: "Latin Hagiography"
 
 - [Vita Engelmari, eremitae et martyris in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/vita-engelmari/)
 - [Acta Felicis, confessoris et presbyteri Romani Nolae (BHL 2885)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-felicis-romani/)
+- [Acta Pontiani, martyris Spoleti in Italia (BHL 6891)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-pontiani/)
 
 ### 15. *A.d. XVIII Kal. Feb.*
 
