@@ -63,6 +63,8 @@ title: "Latin Hagiography"
 
 ### 12. *Pridie Idus Ianuarias*
 
+- [De Benedicto Biscopio, abbate in Anglia, Guilelmo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-benedicto-biscopio-guilelmi/)
+
 ### 13. *Idibus Ianuariis*
 
 - [De Euticio, abbate Balmae in Burgundia](https://cjkoepke1.github.io/latin-hagiography/texts/de-euticio-abbate/)
