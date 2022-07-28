@@ -73,6 +73,7 @@ title: "Latin Hagiography"
 
 ### 15. *A.d. XVIII Kal. Feb.*
 
+- [De casula Boniti, episcopi Arvernorum in Gallia (BHL 1419)](https://cjkoepke1.github.io/latin-hagiography/texts/de-casula-boniti/)
 - [Rhythmus de casula Boniti, episcopi Arvernorum in Gallia (BHL 1420)](https://cjkoepke1.github.io/latin-hagiography/texts/rhythmus-casula-boniti/)
 - [Inventio virginum Maurae et Brittae, apud Turones in Gallia (BHL 5726)](https://cjkoepke1.github.io/latin-hagiography/texts/inventio-maurae-brittae/)
 - [Passio Secundinae, virginis et martyris Anagniae in Latio (BHL 7553)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-secundinae/)
