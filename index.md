@@ -65,6 +65,8 @@ title: "Latin Hagiography"
 
 ### 13. *Idibus Ianuariis*
 
+- [Acta Gumesindi presbyteri et Servi Dei monachi, martyrum Cordubae in Hispania](https://cjkoepke1.github.io/latin-hagiography/texts/acta-gumesindi/)
+
 ### 14. *A.d. XIX Kalendas Februarias*
 
 - [Vita Engelmari, eremitae et martyris in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/vita-engelmari/)
