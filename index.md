@@ -67,6 +67,7 @@ title: "Latin Hagiography"
 - [Vita Benedicti Biscopii, abbatis in Anglia, ex homilia Bedae (BHL 1101)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-benedicti-biscopii-bedae/)
 - [De Benedicto Biscopio, abbate in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-benedicto-biscopio/)
 - [De Benedicto Biscopio, abbate in Anglia, Guilelmo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-benedicto-biscopio-guilelmi/)
+- [Approbatio regulae coenobii Caesariae, virginis Arelate in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/approbatio-regulae-caesariae/)
 
 
 ### 13. *Idibus Ianuariis*
