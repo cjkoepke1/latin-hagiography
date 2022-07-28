@@ -19,11 +19,17 @@ source: Acta Sanctorum
 ---
 
 Marcellus episcopus relegi et consensi
+
 Iohannes consensi et subscripsi
+
 Severus consensi et subscripsi
+
 Cyprianus relegi et consensi
+
 Contumeliosus episcopus relegi et consensi
+
 Montanus episcopus relegi et consensi
+
 Petrus in Christi nomine relegi et consensi
 
 ---
