@@ -67,6 +67,7 @@ title: "Latin Hagiography"
 
 - [De Euticio, abbate Balmae in Burgundia](https://cjkoepke1.github.io/latin-hagiography/texts/de-euticio-abbate/)
 - [Acta Gumesindi presbyteri et Servi Dei monachi, martyrum Cordubae in Hispania](https://cjkoepke1.github.io/latin-hagiography/texts/acta-gumesindi/)
+- [Miracula Hilarii, episcopi Pictaviensis in Gallia, Flodoarde auctore](https://cjkoepke1.github.io/latin-hagiography/texts/miracula-hilarii-flodoardi/)
 
 ### 14. *A.d. XIX Kalendas Februarias*
 
