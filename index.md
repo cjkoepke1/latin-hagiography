@@ -63,6 +63,7 @@ title: "Latin Hagiography"
 
 ### 12. *Pridie Idus Ianuarias*
 
+- [Vita Benedicti Biscopii, abbatis in Anglia, ex homilia Bedae (BHL 1101)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-benedicti-biscopii-bedae/)
 - [De Benedicto Biscopio, abbate in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-benedicto-biscopio/)
 - [De Benedicto Biscopio, abbate in Anglia, Guilelmo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-benedicto-biscopio-guilelmi/)
 
