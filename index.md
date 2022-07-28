@@ -49,7 +49,8 @@ title: "Latin Hagiography"
 
 ### 6. *A.d. VIII Idus Ianuarias*
 
-- [Passio et translatio Macrae, virginis et martyris in territorio Remensi (BHL 5126–5127)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-macrae/)
+- [Passio Macrae, virginis et martyris in territorio Remensi (BHL 5126)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-macrae/)
+- [Translatio Macrae, virginis et martyris in territorio Remensi (BHL 5127)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-macrae/)
 
 ### 7. *A.d. VII Id. Ian.*
 
