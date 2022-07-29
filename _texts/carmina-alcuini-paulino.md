@@ -21,7 +21,7 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 - Quam festiva dies fuerat cum pagina nobis
 - Laeta [^2] fuit titulis optatae inscripta salutis!
 - Omnia dicta mihi caritatis melle manabant;
-- Quo se devertit [^3] laetus relegentis ocellus,          10
+- Quo se devertit [^3] laetus relegentis ocellus,
 - Cernit ubique suae semper noua gaudia mentis,
 - Maxime iam [^4] gaudens in prosperitate paterna,
 - Quem Deus aeterno conservet tempore sanum.
@@ -44,7 +44,7 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 - Ut te cum sanctis liceat laudare per aevum.”
 - Omnipotens patris virtus, sapientia Christus,
 - Obsecro te supplex toto de pectore pauper,
-- Ut tua conservet Paulinum dextera semper,                10
+- Ut tua conservet Paulinum dextera semper,
 - Protegat atque regat, virtutum floribus ornet.
 - Tuque Maria, Dei genitrix, sanctissima virgo,
 - Prospera cuncta meo Paulino posce, precamur:
@@ -54,7 +54,7 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 - Ecclesiae patres, habuistis semper apertas,
 - Et nunc cum Christo caelestia regna tenetis.
 - Fundite, proque mei Paulini, posco, salute
-- Cum pietate preces summo super omnia regi,               20
+- Cum pietate preces summo super omnia regi,
 - Ut vigeat, valeat Christi praecepta secutus.
 - Et vos, ecclesiae sanctae sanctissima proles,
 - In commune precor prostrato [^7] corpore sanus,[^8]
@@ -64,7 +64,7 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 - Angelici faciem coetus qui cernitis almam,
 - Perpetui patris caelesti in culmine semper,
 - Expansis manibus humili sed pectore posco,
-- Vos quoque Paulinum precibus defendite vestris,          30
+- Vos quoque Paulinum precibus defendite vestris,
 - Ut gaudens regnet vestro sociatus honori,
 - Aeternisque Dei vobiscum laudibus adsit,
 - Regna beata tenens felix sine fine polorum.
@@ -74,7 +74,7 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 - Sit via, vita, salus, spes, laus, et gloria [^12] perpes:
 - Semper in ore sonet, maneatque in pectore semper;
 - Ut tibi cum sanctis tribuat caelestia regna:
-- Qua memor esto tui nati, te posco per illum,             40
+- Qua memor esto tui nati, te posco per illum,
 - Qui te perpetuam caeli deducat in aulam.
 - Et nunc et semper, mi mi Pauline, valeto.
 - Carminis hic finem lacrimis faciemus amatis,[^13]
