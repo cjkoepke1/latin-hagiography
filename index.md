@@ -62,6 +62,8 @@ title: "Latin Hagiography"
 
 ### 11. *A.d. III Id. Ian.*
 
+- [Carmina Alcuini Paulino II, patriarchae Aquileiensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/carmina-alcuini-paulino/)
+
 ### 12. *Pridie Idus Ianuarias*
 
 - [Vita Benedicti Biscopii, abbatis in Anglia, ex homilia Bedae (BHL 1101)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-benedicti-biscopii-bedae/)
