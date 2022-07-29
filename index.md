@@ -63,6 +63,7 @@ title: "Latin Hagiography"
 ### 11. *A.d. III Id. Ian.*
 
 - [Carmina Alcuini Paulino II, patriarchae Aquileiensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/carmina-alcuini-paulino/)
+- [Diploma Caroli Magni Paulino II, patriarchae Aquileiensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/diploma-caroli-magni-paulino/)
 
 ### 12. *Pridie Idus Ianuarias*
 
