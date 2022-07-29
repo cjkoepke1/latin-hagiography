@@ -21,7 +21,7 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 - Quam festiva dies fuerat cum pagina nobis
 - Laeta [^2] fuit titulis optatae inscripta salutis!
 - Omnia dicta mihi caritatis melle manabant;
-- Quo se devertit [^3] laetus relegentis ocellus,         10
+- Quo se devertit [^3] laetus relegentis ocellus,          10
 - Cernit ubique suae semper noua gaudia mentis,
 - Maxime iam [^4] gaudens in prosperitate paterna,
 - Quem Deus aeterno conservet tempore sanum.
@@ -35,50 +35,50 @@ source: Acta Sanctorum; Monumenta Germaniae Historica
 
 ## II.
 
-O Pauline pater, pastor, patriarcha, sacerdos,
-Pars animae [^6] melior, nostrae pars inclita vitae;
-Sis memor Albini, sacris altaribus adstans;
-Et dulces inter lacrimas super ora fluentes,
-Dic: “Miserere, Deus, nostro clementer amico,
-Criminibusque suis veniam largire benignus,
-Ut te cum sanctis liceat laudare per aevum.”
-Omnipotens patris virtus, sapientia Christus,
-Obsecro te supplex toto de pectore pauper,
-Ut tua conservet Paulinum dextera semper,               10
-Protegat atque regat, virtutum floribus ornet.
-Tuque Maria, Dei genitrix, sanctissima virgo,
-Prospera cuncta meo Paulino posce, precamur:
-Ut vigeat, valeat Christi repletus amore.
-Vos quoque cara simul sanctorum turba Tonanti,
-Qui bibulas proni monitis caelestibus aures,
-Ecclesiae patres, habuistis semper apertas,
-Et nunc cum Christo caelestia regna tenetis.
-Fundite, proque mei Paulini, posco, salute
-Cum pietate preces summo super omnia regi,              20
-Ut vigeat, valeat Christi praecepta secutus.
-Et vos, ecclesiae sanctae sanctissima proles,
-In commune precor prostrato [^7] corpore sanus,[^8]
-Angelici faciem caram [^9] Paulini habeatis in aevum,
-Illius et vitam precibus commendite Christo,
-Ut vigeat, valeat longaevo tempore sanus.
-Angelici faciem coetus qui cernitis almam,
-Perpetui patris caelesti in culmine semper,
-Expansis manibus humili sed pectore posco,
-Vos quoque Paulinum precibus defendite vestris,         30
-Ut gaudens regnet vestro sociatus honori,
-Aeternisque Dei vobiscum laudibus adsit,
-Regna beata tenens felix sine fine polorum.
-Hos rogo versiculos habeas, pater optime, tecum,
-Ut tua mens memoret laeto [^10] pro carmine nutum.[^11]
-Sit tibi Christus amor, virtus, decus, omnia Christus.
-Sit via, vita, salus, spes, laus, et gloria [^12] perpes:
-Semper in ore sonet, maneatque in pectore semper;
-Ut tibi cum sanctis tribuat caelestia regna:
-Qua memor esto tui nati, te posco per illum,            40
-Qui te perpetuam caeli deducat in aulam.
-Et nunc et semper, mi mi Pauline, valeto.
-Carminis hic finem lacrimis faciemus amatis,[^13]
-Sed numquam sacri finem faciemus amoris.
+- O Pauline pater, pastor, patriarcha, sacerdos,
+- Pars animae [^6] melior, nostrae pars inclita vitae;
+- Sis memor Albini, sacris altaribus adstans;
+- Et dulces inter lacrimas super ora fluentes,
+- Dic: “Miserere, Deus, nostro clementer amico,
+- Criminibusque suis veniam largire benignus,
+- Ut te cum sanctis liceat laudare per aevum.”
+- Omnipotens patris virtus, sapientia Christus,
+- Obsecro te supplex toto de pectore pauper,
+- Ut tua conservet Paulinum dextera semper,                10
+- Protegat atque regat, virtutum floribus ornet.
+- Tuque Maria, Dei genitrix, sanctissima virgo,
+- Prospera cuncta meo Paulino posce, precamur:
+- Ut vigeat, valeat Christi repletus amore.
+- Vos quoque cara simul sanctorum turba Tonanti,
+- Qui bibulas proni monitis caelestibus aures,
+- Ecclesiae patres, habuistis semper apertas,
+- Et nunc cum Christo caelestia regna tenetis.
+- Fundite, proque mei Paulini, posco, salute
+- Cum pietate preces summo super omnia regi,               20
+- Ut vigeat, valeat Christi praecepta secutus.
+- Et vos, ecclesiae sanctae sanctissima proles,
+- In commune precor prostrato [^7] corpore sanus,[^8]
+- Angelici faciem caram [^9] Paulini habeatis in aevum,
+- Illius et vitam precibus commendite Christo,
+- Ut vigeat, valeat longaevo tempore sanus.
+- Angelici faciem coetus qui cernitis almam,
+- Perpetui patris caelesti in culmine semper,
+- Expansis manibus humili sed pectore posco,
+- Vos quoque Paulinum precibus defendite vestris,          30
+- Ut gaudens regnet vestro sociatus honori,
+- Aeternisque Dei vobiscum laudibus adsit,
+- Regna beata tenens felix sine fine polorum.
+- Hos rogo versiculos habeas, pater optime, tecum,
+- Ut tua mens memoret laeto [^10] pro carmine nutum.[^11]
+- Sit tibi Christus amor, virtus, decus, omnia Christus.
+- Sit via, vita, salus, spes, laus, et gloria [^12] perpes:
+- Semper in ore sonet, maneatque in pectore semper;
+- Ut tibi cum sanctis tribuat caelestia regna:
+- Qua memor esto tui nati, te posco per illum,             40
+- Qui te perpetuam caeli deducat in aulam.
+- Et nunc et semper, mi mi Pauline, valeto.
+- Carminis hic finem lacrimis faciemus amatis,[^13]
+- Sed numquam sacri finem faciemus amoris.
 
 ---
 
