@@ -14,7 +14,7 @@ source: Acta Sanctorum
 - Infirmorum spes et vita,
 - Fac me digne te laudare,
 - Venerari, et amare,
-- {:.indent-4}Perpeti memoria.
+- {:.indent-4}Perpeti memoria.
 - In adversis sis protector,
 - Mediator, dux, et vector,
 - Ne cum pravis condemnemur;
