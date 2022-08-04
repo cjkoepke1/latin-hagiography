@@ -2,7 +2,7 @@
 layout: narrative
 title: Revelatio reliquiarum Genovefae, virginis Parisiis in Gallia
 bhl: 3346
-feast: January 3
+feast: January 10; January 3
 author: Guilelmus abbas
 editor: Carson Koepke
 source: Acta Sanctorum
