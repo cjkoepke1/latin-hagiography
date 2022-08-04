@@ -26,9 +26,9 @@ source: Acta Sanctorum
 
 ---
 
-[^1]: probatur] Or provocatur
-[^2]: debitus] Or deditus
-[^3]: utrumque…voto] Or verumque Christianum exhibens voto
+[^1]: probatur] *Or* provocatur
+[^2]: debitus] *Or* deditus
+[^3]: utrumque…voto] *Or* verumque Christianum exhibens voto
 [^4]: Matthew 10:23.
 [^5]: Philippians 1:21.
-[^6]: pedum extrema nudare] Or pedem extendere manum dare
+[^6]: pedum extrema nudare] *Or* pedem extendere manum dare
