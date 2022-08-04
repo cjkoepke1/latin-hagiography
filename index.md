@@ -68,6 +68,7 @@ title: "Latin Hagiography"
 - [Vita Honoratae, virginis Papiae in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/vita-honoratae/)
 - [Carmina Alcuini Paulino II, patriarchae Aquileiensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/carmina-alcuini-paulino/)
 - [Diploma Caroli Magni Paulino II, patriarchae Aquileiensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/diploma-caroli-magni-paulino/)
+- [Epistola Paulini II, patriarchae Aquileiensis in Italia, Carolo Magno](https://cjkoepke1.github.io/latin-hagiography/texts/epistola-paulini-carolo-magno/)
 
 ### 12. *Pridie Idus Ianuarias*
 
