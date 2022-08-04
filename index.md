@@ -60,6 +60,8 @@ title: "Latin Hagiography"
 
 ### 10. *A.d. IV Id. Ian.*
 
+-[Oratio Paulo Thebaeo, primo eremitae in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-paulo-thebaeo/)
+
 ### 11. *A.d. III Id. Ian.*
 
 - [De Alexandro, episcopo Firmano, martyre in Piceno](https://cjkoepke1.github.io/latin-hagiography/texts/de-alexandro-firmano/)
