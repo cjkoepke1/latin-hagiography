@@ -14,12 +14,12 @@ source: Acta Sanctorum
 - Infirmorum spes et vita,
 - Fac me digne te laudare,
 - Venerari, et amare,
--      Perpeti memoria.
+- {:.indent-4}Perpeti memoria.
 - In adversis sis protector,
 - Mediator, dux, et vector,
 - Ne cum pravis condemnemur;
 - Imo tecum gloriemur
--       In caelesti patria. 
+- {:.indent-4}In caelesti patria. 
 
 Amen.
 
