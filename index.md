@@ -60,7 +60,7 @@ title: "Latin Hagiography"
 
 ### 10. *A.d. IV Id. Ian.*
 
--[Oratio Paulo Thebaeo, primo eremitae in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-paulo-thebaeo/)
+- [Oratio Paulo Thebaeo, primo eremitae in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-paulo-thebaeo/)
 
 ### 11. *A.d. III Id. Ian.*
 
