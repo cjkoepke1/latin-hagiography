@@ -64,6 +64,7 @@ title: "Latin Hagiography"
 - [De Iohanne Camillo Bono, episcopo Mediolanensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-iohanne-bono/)
 - [Oratio Paulo Thebaeo, primo eremitae in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-paulo-thebaeo/)
 - [Vita Theclae, virginis Leontinae in Sicilia](https://cjkoepke1.github.io/latin-hagiography/texts/vita-theclae-leontinae/)
+- [De Walerico, eremita Belga in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/de-walerico/)
 
 ### 11. *A.d. III Id. Ian.*
 
