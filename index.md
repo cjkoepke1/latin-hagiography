@@ -63,6 +63,7 @@ title: "Latin Hagiography"
 - [Revelatio reliquiarum Genovefae, virginis Parisiis in Gallia (BHL 3346)](https://cjkoepke1.github.io/latin-hagiography/texts/revelatio-genovefae/)
 - [De Iohanne Camillo Bono, episcopo Mediolanensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-iohanne-bono/)
 - [Oratio Paulo Thebaeo, primo eremitae in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-paulo-thebaeo/)
+- [De Sethrida, virgine et abbatissa Brigensi in Gallia, Beda auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-sethrida-bedae/)
 - [Vita Theclae, virginis Leontinae in Sicilia](https://cjkoepke1.github.io/latin-hagiography/texts/vita-theclae-leontinae/)
 - [De Walerico, eremita Belga in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/de-walerico/)
 
