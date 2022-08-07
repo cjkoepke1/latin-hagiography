@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: De Sethrida, virgine et abbatissa Brigensi in Gallia, Beda auctore
+title: De Sethrida, virgine et abbatissa Brigensi in Gallia
 bhl: NA
 feast: January 10; January 7
 author: Bede
