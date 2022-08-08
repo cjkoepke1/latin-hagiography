@@ -62,6 +62,7 @@ title: "Latin Hagiography"
 - [Epitaphium Agathonis Thaumaturgi, papae Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-agathonis/)
 - [Revelatio reliquiarum Genovefae, virginis Parisiis in Gallia (BHL 3346)](https://cjkoepke1.github.io/latin-hagiography/texts/revelatio-genovefae/)
 - [De Iohanne Camillo Bono, episcopo Mediolanensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-iohanne-bono/)
+- [Sequentia de Guilielmo, archiepiscopo Bituricensi in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/sequentia-de-guilielmo-bituricensi/)
 - [Oratio Paulo Thebaeo, primo eremitae in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-paulo-thebaeo/)
 - [De Sethrida, virgine et abbatissa Brigensi in Gallia, Beda auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-sethrida-bedae/)
 - [De Sethrida, virgine et abbatissa Brigensi in Gallia, Henrico auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-sethrida-henrici/)
