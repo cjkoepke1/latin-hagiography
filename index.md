@@ -62,6 +62,7 @@ title: "Latin Hagiography"
 - [Martyrologia de Iuliano, Basilissa et sociis, martyribus Antinoi in Aegypto](https://cjkoepke1.github.io/latin-hagiography/texts/martyrologia-de-iuliano/)
 - [De Marcellino, episcopo Anconitano in Italia (BHL 5224)](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcellino-anconitano/)
 - [Vita Marcellini, episcopi Anconitani in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/vita-marcellini/)
+- [Acta Marcianae, virginis et martyris Caesareae in Mauritania (BHL 5257)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-marcianae/)
 - [Hymnus de Marciana, virgine et martyre Caesareae in Mauritania](https://cjkoepke1.github.io/latin-hagiography/texts/hymnus-de-marciana/)
 
 ### 10. *A.d. IV Id. Ian.*
