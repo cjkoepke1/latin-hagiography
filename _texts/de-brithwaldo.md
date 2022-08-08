@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Lib. 5 Historiae Ecclesiasticae Gentis Anglorum
 
 ---
 
-## Ex Lib. 5 Historiae Ecclesiasticae Gentis Anglorum
+## Ex Lib. 5 *Historiae Ecclesiasticae Gentis Anglorum*
 
 ### Caput 9. 
 
