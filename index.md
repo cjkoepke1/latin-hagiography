@@ -59,6 +59,7 @@ title: "Latin Hagiography"
 
 - [De Brithwaldo, archiepiscopo Cantuariensi in Anglia, Beda auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-brithwaldo/)
 - [De Marcellino, episcopo Anconitano in Italia (BHL 5224)](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcellino-anconitano/)
+- [Hymnus de Marciana, virgine et martyre Caesareae in Mauritania](https://cjkoepke1.github.io/latin-hagiography/texts/hymnus-de-marciana/)
 
 ### 10. *A.d. IV Id. Ian.*
 
