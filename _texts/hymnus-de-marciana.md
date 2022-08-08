@@ -14,7 +14,7 @@ source: Acta Sanctorum ex Breviario Ecclesiae Toletanae
 - Celebret vox ecclesiae:
 - Camena sit cunctis una,
 - Marcianae in laudem virginis.
-      
+<p>&nbsp;</p>
 - Quae passionis praemium,
 - Dum tendit, adipiscitur:
 - Ultro ad palaestram gloriae
