@@ -12,6 +12,8 @@ source: Acta Sanctorum ex Missale Rotomagense
 
 ## Ex Missale Rotomagensi
 
+---
+
 - Ecce dies specialis confessorum gloria,
 - Qua praefulget triumphalis Guillermi victoria,
 - Qua aeterna Christo duce migravit ad gaudia,
