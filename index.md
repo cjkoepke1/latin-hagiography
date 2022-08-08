@@ -58,6 +58,7 @@ title: "Latin Hagiography"
 ### 9. *A.d. V Id. Ian.*
 
 - [De Brithwaldo, archiepiscopo Cantuariensi in Anglia, Beda auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-brithwaldo/)
+- [De Marcellino, episcopo Anconitano in Italia (BHL 5224)](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcellino-anconitano/)
 
 ### 10. *A.d. IV Id. Ian.*
 
