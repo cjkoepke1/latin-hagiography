@@ -58,6 +58,7 @@ title: "Latin Hagiography"
 ### 9. *A.d. V Id. Ian.*
 
 - [De Brithwaldo, archiepiscopo Cantuariensi in Anglia, Beda auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-brithwaldo/)
+- [Acta Iuliani, Basilissae et sociorum, martyrum Antinoi in Aegypto, Althelmo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/acta-iuliani-althelmi/)
 - [De Marcellino, episcopo Anconitano in Italia (BHL 5224)](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcellino-anconitano/)
 - [Vita Marcellini, episcopi Anconitani in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/vita-marcellini/)
 - [Hymnus de Marciana, virgine et martyre Caesareae in Mauritania](https://cjkoepke1.github.io/latin-hagiography/texts/hymnus-de-marciana/)
