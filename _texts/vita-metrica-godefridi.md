@@ -455,7 +455,7 @@ V. *Adversus daemonem imperium.*
 [^29]: Sed] Si *Ms.*
 [^30]: imbre] inde *Ms.*
 [^31]: nomen] nomine *Ms.*
-[^32] quod] qui *Ms.*
+[^32]: quod] qui *Ms.*
 [^33]: nomen] nomine *Ms.*
 [^34]: nova] modo *Ms.*
 [^35]: fugeret] fugiet *Ms.*
