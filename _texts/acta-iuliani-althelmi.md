@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Acta Iuliani, Basilissae et sociorum, martyrum Antinoi in Aegypto, Althelmo auctore
+title: Acta Iuliani, Basilissae et sociorum, martyrum Antinoi in Aegypto
 bhl: NA
 feast: January 9
 author: Aldhelm
