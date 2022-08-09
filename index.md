@@ -55,6 +55,8 @@ title: "Latin Hagiography"
 
 ### 8. *A.d. VI Id. Ian.*
 
+- [De Wulsino, episcopo Schireburnensi in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-wulsino/)
+
 ### 9. *A.d. V Id. Ian.*
 
 - [De Brithwaldo, archiepiscopo Cantuariensi in Anglia, Beda auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-brithwaldo/)
