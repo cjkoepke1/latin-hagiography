@@ -55,6 +55,7 @@ title: "Latin Hagiography"
 
 ### 8. *A.d. VI Id. Ian.*
 
+- [De Claudio, Carbonano, Tibudiano et Planio, martyribus Interamnae in Umbria](https://cjkoepke1.github.io/latin-hagiography/texts/de-claudio-et-sociis/)
 - [De Pega, virgine in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-pega/)
 - [De Maximo, episcopo Ticinensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-maximo-ticinensi/)
 - [Epistola Eugippii de Severino, presbytero et Noricorum apostolo Neapoli (BHL 7655)](https://cjkoepke1.github.io/latin-hagiography/texts/epistola-eugippii-de-severino/)
