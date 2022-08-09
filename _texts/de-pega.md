@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Historia Croylandensi
 
 ---
 
-## Ex Historia Croylandensi
+## Ex *Historia Croylandensi*
 
 ---
 
