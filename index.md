@@ -54,6 +54,7 @@ title: "Latin Hagiography"
 ### 7. *A.d. VII Id. Ian.*
 
 - [Vita Canuti Lawardi, regis Obotritorum et ducis Sleswicensis in Dania](https://cjkoepke1.github.io/latin-hagiography/texts/vita-canuti-lawardi/)
+- [Vita Canuti Lawardi, regis Obotritorum et ducis Sleswicensis in Dania, Helmoldo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/vita-canuti-lawardi-helmoldi/)
 
 ### 8. *A.d. VI Id. Ian.*
 
