@@ -53,6 +53,8 @@ title: "Latin Hagiography"
 
 ### 7. *A.d. VII Id. Ian.*
 
+- [Vita Canuti Lawardi, regis Obotritorum et ducis Sleswicensis in Dania](https://cjkoepke1.github.io/latin-hagiography/texts/vita-canuti-lawardi/)
+
 ### 8. *A.d. VI Id. Ian.*
 
 - [De Claudio, Carbonano, Tibudiano et Planio, martyribus Interamnae in Umbria](https://cjkoepke1.github.io/latin-hagiography/texts/de-claudio-et-sociis/)
