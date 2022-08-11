@@ -50,6 +50,7 @@ title: "Latin Hagiography"
 
 - [Passio Macrae, virginis et martyris in territorio Remensi (BHL 5126)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-macrae/)
 - [Translatio Macrae, virginis et martyris in territorio Remensi (BHL 5127)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-macrae/)
+- [De Melanio, episcopo Rhedonensi in Gallia (BHL 5892)](https://cjkoepke1.github.io/latin-hagiography/texts/de-melanio/)
 
 ### 7. *A.d. VII Id. Ian.*
 
