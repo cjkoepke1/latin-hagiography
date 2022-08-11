@@ -55,6 +55,7 @@ title: "Latin Hagiography"
 
 - [Vita Canuti Lawardi, regis Obotritorum et ducis Sleswicensis in Dania](https://cjkoepke1.github.io/latin-hagiography/texts/vita-canuti-lawardi/)
 - [Vita Canuti Lawardi, regis Obotritorum et ducis Sleswicensis in Dania, Helmoldo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/vita-canuti-lawardi-helmoldi/)
+- [Oratio de Tillone Paulo, monacho Solemniaci in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-de-tillone-paulo/)
 
 ### 8. *A.d. VI Id. Ian.*
 
