@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Lib. 1 Hist. Eccl. Gentis Anglorum
 
 ---
 
-Ex Lib. 1 *Hist. Eccl. Gentis Anglorum*, cap. 33.
+## Ex Lib. 1 *Hist. Eccl. Gentis Anglorum*, cap. 33.
 
 ---
 
