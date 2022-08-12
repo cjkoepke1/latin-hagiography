@@ -52,6 +52,7 @@ title: "Latin Hagiography"
 - [Translatio Macrae, virginis et martyris in territorio Remensi (BHL 5127)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-macrae/)
 - [De Melanio, episcopo Rhedonensi in Gallia (BHL 5892)](https://cjkoepke1.github.io/latin-hagiography/texts/de-melanio/)
 - [Miraculum Melanii, episcopi Rhedonensis in Gallia (BHL 5893)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-melanii/)
+- [Miracula Melanii, episcopi Rhedonensis in Gallia (BHL 5894)](https://cjkoepke1.github.io/latin-hagiography/texts/miracula-melanii/)
 
 ### 7. *A.d. VII Id. Ian.*
 
