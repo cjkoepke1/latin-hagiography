@@ -1,0 +1,29 @@
+---
+layout: narrative
+title: Commemoratio Praeputii Iesu Christi
+bhl: 4161
+feast: January 1
+author: Anonymous
+editor: Carson Koepke
+source: Acta Sanctorum
+---
+
+---
+
+§1) Uniuersis Christi fidelibus ad quos praesens nostrum scriptum pervenerit, decanus et capitulum ecclesiae collegiatae Beatae Mariae Antverpiensis, Cameracensis dioecesis, in Christo Iesu Domino nostro salutem, et piam noscere veritatem. Si sacris ossibus ceterisque probatis reliquiis ad recolenda nobis sanctorum merita, et imitandam vitam veneratio debeatur et honorificentiae cultus; quanto maior Dominico praeputio, quod ex incontaminata Christi carne, qui sanctus sanctorum est, nostrae reparationis arrha initiumque sub tenerae aetatis infantia primaeuaque sui pretiosi sanguinis effusione recisum, mundoque, ut pie credimus, est relictum, dicente sponsa Christi ecclesia, ‘Si non sit viro meo nomen et reliquiae super terram.’[^1] Sane cum sacrosanctum hoc Domini nostri Iesu Christi praeputium, saltem (ne quibusdam locis derogare videamur) notandam portiunculam eius apud nos esse fuisseque a plurimis annorum centenariis, nostrorum seniorum relatione vetustissimisque eorum relictis scripturis didicerimus; ne forte irreverentiae negligentiaeque rei tam sacrae a Domino cum illis Cisterciensibus, quorum Caesarius meminit, arguamur; ut quod in nobis est faceremus, id ipsum hoc scripto nostro universitati vestrae volumus esse notum.
+
+§2) Tradiderunt quippe nobis seniores nostri, quod regnante in terra sancta felicis recordationis illustrissimo christianissimoque principe fundatoreque nostro Godefrido de Buillon Hierosolymitanorum rege, erat cum illo generosus quidam vir, Antverpiensis oppidanus, Henricus Noese, presbyter et eiusdem domini Godefridi capellanus: qui dehinc eorundem Hierosolymitanorum factus episcopus, videns succedente Balduino praefati regis Godefridi fratre, saevitiam infidelium reinvalescere paganorum; natalis patriae nimirum affectus amore, conquisitum ante et sufficienti documento probatum Domini nostri praeputium, per manus cuiusdam nostratis, fidi capellani sui et nostri, Arnoldi Heerbrant, priusquam morte corporali illic praeveniretur, ut rem tam sacram indignis infidelibus subtraheret, ad nostram praefatam ecclesiam Antverpiensem memoriale sui perenne fideliter transmisit, digne fidelibus adorandum. Ait enim Dominus per prophetam: ‘De Ierusalem exibunt reliquiae.’[^2] Et alibi: ‘Disperdam de loco hoc (scilicet Ierusalem) reliquias.’[^3] Et: ‘Possidere faciam reliquias populi huius.’[^4]
+
+§3) At ne forte levitate quadam a nobis res haec suscepta nonnullis prima facie videatur, ulla vel subsecuta in attestationem signaculi huius, stupenda miracula, quae operari olim dignatus est Dominus, plurima tacentes, fideliter referemus. Contigit equidem dudum venerabilem patrem et dominum nostrum Cameracensem pastoralis sollicitudinis more ecclesiam nostram visitare. Hic celebraturus inter missarum suarum solemnia sacrosanctum Domini praeputium, de quo sermonem vobis facimus, praesentialiter sibi afferri, et corporali, quo utebatur, superponi praestolabatur; ut id ipsum cum metu et reverentia valeret aspicere. Cuius devotae petitioni dum praedecessores nostri, qui pro tempore astabant, iuste annuerent; indictis tamen prius populo per eumdem orationibus communibus, dum et ipse intra missae suae secreta orat, si forte Dominus eidem signum aliquod mittere dignaretur; (mira res!) ecce ex praefato Domini praeputio in corporale, cui impositum fuerat, tres sanguinis guttulas, quae in hoc usque aevi apud nos notabiliter apparent et permanent; stupens conspicit resudasse, statimque totum circa rem hanc, si quod inhaeserat dubietatis vulnus de eius pectore praeputatum est: orabat tamen poenitentia ductus pius pater Dominum, populumque pro se orare fecit, veritus si forte in hac re Deum tentandi vitium ullatenus incurrisset.
+
+§4) Sed quid dicemus de recolendae apud nos memoriae inclita illa regina Siciliae, quae olim incurabili morbo laborans nostri Antverpiensis penitus ignara loci, dum in spiritu tantum et visione docta a Domino, sacrum hoc Domini praeputium devota vovet ecclesiaeque nostrae limina corporaliter visitare: eo ipso curata sanaque effecta est. Quae dum facto corporaliter, suffragio mercatorum freta, quod voto promiserat, adimpleret; advenienti reginae ordine processionali occurrente clero nostro, allatoque praeputio sacro, ecce daemoniacus quidam horribili voce canonicis improperat, pro eo quod carnem immortalis Regis mortali feminae obviam ferunt, illicoque a daemone liberatus est. Suntque apud nos in hodiernum adhuc servata diem ornamenta pretiosa in signum huius, quae haec devota matrona nostrae ecclesiae cum gratiarum actione dereliquit.
+
+§5) Quae itaque, quaesumus, tam saxea hominum pectora, quibus haec testimonia non satis sint? Quem haec ad piam fidem non moveant, ad sacratissimum quoque hoc Domini praeputium, quod apud nos sic esse fideliter et pie credimus, si non praesentialiter corpore, mente vel nobiscum fideliter adorandum; nisi forte horum, contra quos tam pulchre Aurelius ille Augustinus in libris *De civitate Dei* invehitur. Quorum, ut ait, proprium est nil eorum credere de praeteritis aut futuris, quae oculis prope aut experimentaliter ipsi coram positi non videre?[^5] Haec igitur in hac re sunt monimenta nostra: haec seniorum nostrorum fidelis relatio, quam scribimus, quae singulis annis a tanto tempore, quod contrarii memoria non habetur, multis hominum millibus praedicantur. In quorum testimonium hoc praesens scriptum nostrum, sigilli nostri appensione, ex certa scientia, duximus communiri. Datum Antverpiae in loco nostro capitulari anno Domini millesimo quadringentesimo decimosexto, mensis Iunii die decima. 
+
+---
+
+[^1]: 2 Kings 14:7.
+[^2]: Isaiah 37:32.
+[^3]: Zephaniah 1:4.
+[^4]: Zachariah 8:12.
+[^5]: See Augustine of Hippo, *De civitate Dei*, lib. 21, cap. 5.
