@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Historia monachorum, cap. 29
 
 ---
 
-Ex *Historia monachorum*, cap. 29 (*De vitis patrum*, Lib. 2)
+## Ex *Historia monachorum*, cap. 29 (*De vitis patrum*, Lib. 2)
 
 ---
 
