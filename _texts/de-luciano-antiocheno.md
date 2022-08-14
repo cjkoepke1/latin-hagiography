@@ -1,0 +1,21 @@
+---
+layout: narrative
+title: De Luciano, presbytero et martyre Antiocheno
+bhl: 5007
+feast: January 7
+author: Rufinus of Aquileia; Eusebius of Caesarea
+editor: Carson Koepke
+source: Acta Sanctorum ex Rufino et Ms. Sancti Maximini
+---
+
+---
+
+§1) Lucianus vir moribus, continentia, et eruditione praecipuus, Antiochenus presbyter, cum ad tribunal iudicis fuisset adductus, “Cur,” inquit ad eum praeses, “vir rationabilis et prudens, sequeris sectam, cuius non potes reddere rationem? Aut si est aliqua, audiamus.” Tum ille, data sibi facultate dicendi, huiuscemodi orationem de fide nostra habuisse dicitur: “In occulto non est, quod nos christiani quem colimus, Deus unus est, per Christum nobis annuntiatus, et per Spiritum sanctum nostris cordibus inspiratus. Non enim, sicut vos putatis, humanae alicuius persuasionis errore constringimur: nec indiscussa, ut alii, parentum traditione decipimur. Auctor nobis de Deo Deus est. Neque enim posset sublimis illa maiestas sensibus humanae mentis illabi, nisi vel spiritus sui virtute delata, vel verbi ac sapientiae suae interpretationibus indicata. Fateor, erravimus etiam nos aliquando; et simulachra, quae ipsi finximus, deos caeli ac terrae putabamus auctores: sed arguebat eos fragilis substantiae suae a nobis praestita consecratio; in quibus tantum venerationis inerat, quantum decoris manus contulisset artificum. Verum omnipotens Deus ille, quem non nostris manibus fictum, sed cuius nos decebat esse figmentum, errores miseratus humanos, sapientiam suam misit in hunc mundum, carne vestitam; quae nos doceret Deum, qui caelum fecisset et terram, non in manu factis, sed in aeternis atque invisibilibus requirendum: vitae etiam nobis leges ac disciplinae praecepta constituit, servare parsimoniam, paupertate gaudere, mansuetudinem colere, studere paci, puritatem cordis amplecti, patientiam custodire. Sed et omnia haec, quae nunc adversum nos geritis, ventura nobis esse praedixit: educendos nos ad reges, et ante tribunalia iudicum statuendos, ac velut victimam iugulandos.
+
+§2) “Inde est denique, quod et ipse, qui erat immortalis, utpote Verbum et sapientia Dei, morti se praebuit, quo nobis in corpore positus [^1] patientiae praeberet exemplum. Sed nec nos sua morte decepit: quibus post tertium diem resurrexit; non ut ista, quae nunc falso conscribuntur, continent *Acta Pilati*; sed innocens, immaculatus, et purus, ad hoc solum mortem suscepit, ut eam vinceret resurgendo. Quae autem dico, non sunt in obscuro gesta loco, nec testibus indigent. Pars paene mundi iam maior huic veritati adstipulatur; urbes integrae: aut si in his aliquid suspectum videtur, contestatur de his etiam agrestis manus, ignara figmenti. Si minus adhuc creditur, adhibebo vobis etiam loci ipsius, in quo resgesta est, testimonium. Adstipulatur his ipse in Hierosolymis locus, et Golgothana rupes sub patibuli onere disrupta; antrum quoque illud, quod avulsis inferni ianuis corpus denuo reddidit animatum, quo purius inde ferretur ad caelum. Aut si vobis adhuc minus digna videntur haec, quae in terris substantiam gerunt, accipite etiam e caelo adstipulatorem fidelem. Solem vobis ipsum horum produco testem, qui cum haec fieri per impios videret in terris, lumen suum meridie abscondit in caelo. Requirite in Annalibus vestris, invenietis temporibus Pilati, Christo patiente, fugato sole interruptum tenebris diem. Quod si terrae, si caelo, si sanguini eorum, a quibus veritatem per tormenta perquiritis, fidem non accommodatis; quomodo meis verbis allegationibusque credetis?”
+
+§3) Et cum paene iam his verbis auditoribus suadere coepisset, ab ripi iubetur in carcerem; ibique quasi absque tumultu populi necari. Illico ministri iniquitatis mandatum perficientes praesidis, caput eius amputaverunt venerandum; et victricem eius animam angeli cum gaudio in caelis deportaverunt: corpusque eius Helenopoli Bithyniae sepultum est, ad laudem et gloriam omnipotentis Dei, cuius regnum et imperium sine fine permanet in saecula saeculorum, Amen. Haec quoque urbs, in qua beatus Dei martyr Lucianus est sepultus, Drepana est nuncupata prius, sed Dei servus imperator Constantinus in honore eiusdem Christi martyris eam restaurans in melius, Helenopolim nuncupavit, ex nomine matris eius.
+
+---
+
+[^1]: *Or* positis 
