@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Elevatio Odilonis, Abbatis Cluniacensis Silviniaci in Gallia
+title: Elevatio Odilonis, abbatis Cluniacensis Silviniaci in Gallia
 bhl: 6284
 feast: January 1
 author: Roger le Fort of Bourges
