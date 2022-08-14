@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Floribus Historiarum
 
 ---
 
-Ex *Floribus Historiarum*
+## Ex *Floribus Historiarum*
 
 ---
 
