@@ -69,6 +69,7 @@ title: "Latin Hagiography"
 - [Vita Canuti Lawardi, regis Obotritorum et ducis Sleswicensis in Dania, Helmoldo auctore](https://cjkoepke1.github.io/latin-hagiography/texts/vita-canuti-lawardi-helmoldi/)
 - [De Crispino I, episcopo Ticinensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-crispino-i/)
 - [De Crispino I, episcopo Ticinensi in Italia, Bernardino Sacco auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-crispino-bernardini-sacci/)
+- [De Luciano, presbytero et martyre Antiocheno (BHL 5007)](https://cjkoepke1.github.io/latin-hagiography/texts/de-luciano-antiocheno/)
 - [De Senatore, episcopo Veronensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-senatore-veronensi/)
 - [Oratio de Tillone Paulo, monacho Solemniaci in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-de-tillone-paulo/)
 
