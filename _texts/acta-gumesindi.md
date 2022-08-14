@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Acta Gumesindi presbyteri et Servi Dei monachi, martyrum Cordubae in Hispania
-bhl: NA
+bhl: N/A
 feast: January 13
 author: Eulogius
 editor: Carson Koepke
