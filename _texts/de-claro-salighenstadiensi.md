@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: De Claro, monacho Salighenstadiensi in Germani
+title: De Claro, monacho Salighenstadiensi in Germania
 bhl: N/A
 feast: January 1
 author: Johannes Trithemius
