@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: Carmina Alcuini Paulino II, patriarchae Aquileiensi in Italia
-bhl: NA
+bhl: N/A
 feast: January 11
 author: Alcuin
 editor: Carson Koepke
