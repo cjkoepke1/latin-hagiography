@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Libro Pontificali
 
 ---
 
-## Ex Libro Pontificali
+## Ex *Libro Pontificali*
 
 ---
 
