@@ -2,7 +2,7 @@
 layout: narrative
 title: Acta Theopempti, episcopi et martyris Nicomediae
 bhl: 8119
-feast: January 4
+feast: January 4; January 3
 author: Anonymous
 editor: Carson Koepke
 source: Acta Sanctorum
