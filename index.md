@@ -30,6 +30,7 @@ title: "Latin Hagiography"
 ### 2. *Ante diem IV Nonas Ianuarias*
 
 - [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii/)
+- [Vita Macarii, Alexandrini abbatis in Thebaide (BHL 5096)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-macarii-alexandrini/)
 
 ### 3. *A.d. III Non. Ian.*
 
