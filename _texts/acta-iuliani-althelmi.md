@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Acta Iuliani, Basilissae et sociorum, martyrum Antinoi in Aegypto
-bhl: NA
+bhl: N/A
 feast: January 9
 author: Aldhelm
 editor:
