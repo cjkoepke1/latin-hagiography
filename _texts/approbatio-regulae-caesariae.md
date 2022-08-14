@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Approbatio regulae coenobii Caesariae, virginis Arelate in Gallia
-bhl: NA
+bhl: N/A
 feast: January 12
 author: Paulinus Hormisda
 editor: Carson Koepke
