@@ -1,0 +1,346 @@
+---
+layout: poem
+title: Carmen Paulini ad Nicetam, episcopum Romatianae, redeuntem in Daciam
+bhl: N/A
+feast: January 7
+author: Paulinus of Nola
+editor: Carson Koepke
+source: Acta Sanctorum; The Latin Library
+---
+
+---
+
+- Iamne abis, et nos properans relinquis?
+- Quos tamen sola regione linquis,
+- Semper adnexa sine fine tecum
+- {:.indent-3}Mente futuros? 
+- Iamne discedis revocante longe
+- Quam colis, terra? Sed et hic resistis
+- Sancte Niceta: quoniam et profectum
+- {:.indent-3}Corde tenemus.
+- I, memor nostri, remaneque vadens
+- Spiritu praesens, animis vicissim
+- Insitus nostris, trahe, ferque tecum
+- {:.indent-3}Quos geris in te.
+- O nimis terra et populi beati!
+- Quos modo a nobis remeans adibis;
+- Quos tuo accedens pede visitabit
+- {:.indent-3}Christus et ore. 
+- Ibis Arctoos procul usque Dacos,
+- Ibis Epiro gemina videndus,
+- Et per aegeos penetrabis aestus
+- {:.indent-3}Thessalonicen.
+- Appulis sed nunc via prima terris
+- Te vehet, longo spatiosa plano,
+- Qua Canusino medicata flagrant
+- {:.indent-3}Vellera fuco.
+- Ast ubi paullum via proferetur,
+- Det, precor, mites tibi Christus aestus,
+- Et levis spiret sine nube siccis
+- {:.indent-3}Aura Calabris.
+- Sicut antiqui manibus prophetae
+- Per sacramentum crucis, unda misso
+- Dulcuit ligno, posuitque tristes
+- {:.indent-3}Merra liquores;
+- Sic tibi coelum modo temperetur,
+- Et levi sudo tenuatus aer,
+- Flatibus puris placide salubres
+- {:.indent-3}Spiret in auras.
+- Qui solet flatu gravis e palustri,
+- Anguium tetros referens odores,
+- Solvere in morbos tumefacta crasso
+- {:.indent-3}Corpora vento. 
+- Quem potens rerum Dominus fugari,
+- Sive mutari iubeat: suoque
+- Nunc sacerdoti bona sanitatis
+- {:.indent-3}Flabra ministret.
+- Sicut Aegypto pereunte quondam
+- Noctis et densae tenebris operta,
+- Qua Dei vivi sacra gens agebat,
+- {:.indent-3}Lux erat orbi.
+- Quae modo in toto species probatur
+- Orbe, cum sanctae pia pars fidei
+- Fulgeat Christo; reliquos tenebris
+- {:.indent-3}Obruat error.
+- Sic meo, qua se feret actus ora,
+- Cuncta Nicetae Dominus secundet:
+- Donec optato patriam vehatur
+- {:.indent-3}Laetus ad urbem.
+- Perge, Niceta, bene qua recurris,
+- Prosperos Christo comitante cursus,
+- Quem tui dudum populi fatigant
+- {:.indent-3}Nocte dieque.
+- Te reposcentes, ut ager levandis
+- Cum satis imbrem sitit, utque molles
+- Cum suas matres vituli represso
+- {:.indent-3}Lacte requirunt.
+- Unde nos iustis precibus tuorum,
+- Qui suum recte repetunt parentem,
+- Cogimur victo, licet inrepleti,
+- {:.indent-3}Cedere voto.
+- Et quia spes iam rapitur tenendi,
+- Urget affectus placitis favere:
+- Iam vias illas licet oderimus
+- {:.indent-3}Quae rapiunt te:
+- Odimus quamvis, sed easdem amamus.
+- Odimus quod te retrahunt: amamus
+- Quod tuum nobis procul attulerunt
+- {:.indent-3}Cernere vultum.
+- Quas prius stringi superante amore,
+- Nunc tibi sterni faciles precamur
+- Praevio terris pelagoque summi
+- {:.indent-3}Nomine Christi.
+- Qui tibi factis iter omne campis,
+- Arduos montes reprimat, cavasque
+- Impleat valles, salebras adaequet,
+- {:.indent-3}Iungat hiatus.
+- Te per Hydruntum Lupiasque vectum,
+- Innubae fratrum simul et sororum
+- Ambient, uno Dominum canentes
+- {:.indent-3}Ore, catervae.
+- Quis mihi pennas daret ut columbae,
+- Ut choris illis citus interessem:
+- Qui Deum Christum duce te canentes
+- {:.indent-3}Sidera pulsant?
+- Sed licet pigro teneamur aegri
+- Corporis nexu, tamen evolamus
+- Mentibus post te, Dominoque tecum
+- {:.indent-3}Dicimus hymnos.
+- Nam tuis intus simul implicati
+- Sensibus, vel cum canis, ac precaris:
+- Cum tua de te prece cumque voce
+- {:.indent-3}Promimur et nos.
+- Inde iam terris subeunte ponto,
+- Adriae stratus sinus obsequetur,
+- Unda procumbet, Zephyroque leni
+- {:.indent-3}Vela tumescent.
+- Ibis illabens pelago iacenti,
+- Et rate amata titulo salutis, armata
+- Victor antemna crucis ibis, undis
+- {:.indent-3}Tutus, et austris.
+- Navitae laeti solitum celeusma
+- Concinent, versis modulis in hymnos,
+- Et piis ducent comites in aequor
+- {:.indent-3}Vocibus auras.
+- Praecinet cunctis, tuba ceu resultans,
+- Lingua Nicetae modulata Christum:
+- Psallet alternis citharista toto
+- {:.indent-3}Aequore David.
+- Audient Amen tremefacta cete,
+- Et sacerdotem Domino canentem
+- Laeta lascivo procul admeabunt
+- {:.indent-3}Monstra natatu.
+- Undique alludent patulo verentes
+- Ore delphines, sine voce quamquam,
+- Aemula humanis tamen eloquentur
+- {:.indent-3}Gaudia linguis.
+- Nam Deo quid non sapit atque vivit,
+- Cuius et verbo sata cuncta rerum?
+- Hinc Dei laudem maris ima noscunt
+- {:.indent-3}Mutaque clamant.
+- Testis est nobis veteris prophetae
+- Bellua, ad nutum Domini profundo
+- Excita, ut mersum caperet, deinque
+- {:.indent-3}Redderet haustum.
+- Sed modo ad nostrum ferus ipse vatem
+- Auribus tantum pia devorabit
+- Cantica: impastam saturabit alvum
+- {:.indent-3}Carmine pastus.
+- Qua libet pergas iter, et per undas,
+- Perque tellurem, licet, et per hostes,
+- Ibis armatus galea salutis,
+- {:.indent-3}Vertice Christo.
+- Advolet missus Raphael, ut olim
+- Tobiae Medis; ita prosequendo
+- Ipse Nicetae comes usque Dacos
+- {:.indent-3}Angelus adsit.
+- Ducat hunc aeque famulum suum dux
+- Ille, qui quondam profugum minacis
+- Fratris a vultu Deus in salutem
+- {:.indent-3}Duxit Iacob.
+- Namque Niceta fugitivus aeque est:
+- Quod semel fecit patriarcha, semper
+- Hic facit, mundo fugiens ad alti
+- {:.indent-3}Moenia caeli:
+- Et gradus illos, quibus ille vidit
+- Angelos versa vice commeantes,
+- Iste contentus superante nubes
+- {:.indent-3}Scandere vita;
+- Per Crucis scalas properans in astra,
+- Qua Deus nitens ad humum coruscis
+- E thronis spectat varios labores
+- {:.indent-3}Bellaque mentis
+- Tuque, Niceta, bene nominatus
+- Corporis victor, velut ille dictus
+- Israel, summum quia vidit alto
+- {:.indent-3}Corde satorem.
+- Unde Nicetes meus approbatur
+- Israelites sine fraude verus,
+- Qui Deum cernit solidae fidei
+- {:.indent-3}Lumine Christum.
+- Hic Deus noster, via nostra semper,
+- Sit comes nobis, sit et antecessor:
+- Semitis lumen, pedibusque nostris
+- {:.indent-3}Sermo lucerna.
+- Qua per obscuri vada caeca secli,
+- Luminis veri face dirigamur,
+- Donec optatos liceat salutis
+- {:.indent-3}Tangere portus,
+- Quos modo undosum petimus per aequor,
+- Dum vagae mentis fluitamus aestu:
+- Terreo, tamquam fragili carina,
+- {:.indent-3}Corpore vecti.
+- Sed gubernaclo crucis hanc regente
+- Nunc ratem, in nobis pia vela cordis
+- Pandimus, Christo referente littus
+- {:.indent-3}Flamine dextro.
+- Ergo dux idem modo prosequatur
+- Te via, qua nunc properas revertens
+- Ire Niceta, patrioque reddat
+- {:.indent-3}Limine tutum.
+- Sed freto emenso superest viarum
+- Rursus in terra labor, vt veharis
+- Usque felices, quibus es Sacerdos
+- {:.indent-3}Praestitus, oras.
+- Tu Philippaeos Macetum per agros,
+- Per Tomitanam gradieris vrbem,
+- Ibis et Scupos patriae propinquos
+- {:.indent-3}Dardanus hospes.
+- O quibus iam tunc resonabit illa
+- Gaudiis tellus, ubi tu rigentes
+- Edoces Christo fera colla miti
+- {:.indent-3}Subdere gentes?
+- Quaque Riphaeis Boreas in oris
+- Alligat densis fluvios pruinis,
+- Hic gelu menteis rigidas superno
+- {:.indent-3}Igne resolvis.
+- Nam simul terris animisque duri
+- Et sua Bessi nive duriores,
+- Nunc oves facti duce te gregantur
+- {:.indent-3}Pacis in aulam:
+- Quasque cervices dare servituti,
+- Semper a bello indomiti, negarunt,
+- Nunc iugo veri Domini subactas
+- {:.indent-3}Sternere gaudent.
+- Nunc magis dives pretio laboris
+- Bessus exultat: quod humi manuque
+- Ante quaerebat, modo mente caelo
+- {:.indent-3}Colligit aurum.
+- O vices rerum! Bene versa forma!
+- Invii montes prius et cruenti,
+- Nunc tegunt versos monachis latrones
+- {:.indent-3}Pacis alumnos.
+- Sanguinis quondam, modo terra vitae est.
+- Vertitur caelo pia vis latronum,
+- Et favet Christus supera occupanti
+- {:.indent-3}Regna rapinae.
+- Mos ubi quondam fuerat ferarum,
+- Nunc ibi ritus viget angelorum:
+- Et latet iustus quibus ipse latro
+- {:.indent-3}Vixit in antris.
+- Euge Niceta, bone serve Christi,
+- Qui tibi donat lapides in astra
+- Vertere, et vivis sacra templa saxis
+- {:.indent-3}Aedificare.
+- Avios saltus, iuga vasta lustras,
+- Dum viam quaeris, sterilemque silvam
+- Mentis incultae superans in agros
+- {:.indent-3}Vertis opimos.
+- Te patrem dicit plaga tota Boreae,
+- Ad tuos fatus Scytha mitigatur,
+- Et sui discors fera te magistro
+- {:.indent-3}Pectora ponit.
+- Et Getae currunt, et uterque Dacus;
+- Qui colit terrae medio, vel ille
+- Divitis multo bove pelleatus
+- {:.indent-3}Accola ripae.
+- De lupis hoc est vitulos creare,
+- Et bovi iunctum palea leonem
+- Pascere, et tutis cava viperarum
+- {:.indent-3}Pandere parvis.
+- Namque mansueto pecori coire
+- Bestias pulsa feritate suades,
+- Qui feras mentes hominum polito
+- {:.indent-3}Imbuis ore.
+- Orbis in muta regione per te
+- Barbari discunt resonare Christum
+- Corde Romano, placidamque casti
+- {:.indent-3}Vivere pacem.
+- Sic tuo mitis lupus est ovili,
+- Pascitur concors vitulus leoni,
+- Parvus extracta trucibus cavernis
+- {:.indent-3}Aspide ludit.
+- Callidos auri legulos in aurum
+- Vertis, et versos imitatis ipse,
+- E quibus vivum fodiente verbo
+- {:.indent-3}Eruis aurum.
+- Has opes condens Domino parenni,
+- His sacrum lucris cumulans talentum,
+- Audies: Intra Domini perennis
+- {:.indent-3}Gaudia laetus.
+- His precor cum te domus alma sancto
+- Ceperit fratrum numerosa coetu
+- In choris, et nos pietate cari
+- {:.indent-3}Pectoris abde.
+- Nam Deo grates, quod amore tanto
+- Nos tibi adstrinxit per operta vincla,
+- Vis ut internam valeat catenam
+- {:.indent-3}Rumpere nulla.
+- Unde complexi sine fine carum
+- Pectus, haeremus laqueo fideli;
+- Quaque contendas, comites erimus
+- {:.indent-3}Mente sequaci.
+- Caritas Christi bene fusa coelo,
+- Cordibus nostris ita nectit intus,
+- Ut nec abiuncto procul auferamur
+- {:.indent-3}Orbe remoti:
+- Nulla nos aetas tibi labis unquam,
+- Orbis aut alter, neque mors revellet;
+- Corporis vita moriente, vita
+- {:.indent-3}Vivet amoris.
+- Dum graves istos habitamus artus,
+- Mente te semper memori colemus:
+- Tu petes simus simul in perenni
+- {:.indent-3}Tempore tecum.
+- Namque te celsum meritis, in altum
+- Culmen imponet pretiosa virtus:
+- Inque viventum super urbe magnis
+- {:.indent-3}Turribus addet.
+- Nos locis, quantum meritis diremti,
+- Eminus celsis humiles patronis,
+- Te procul sacris socium catervis
+- {:.indent-3}Suspiciemus.
+- Quis die nobis dabit hoc in illa,
+- Ut tui stemus lateris sub umbra,
+- Et tuae nobis requietis aura
+- {:.indent-3}Temperet ignem?
+- Tunc, precor, nostri nimium memento
+- Et patris sancti gremio recumbens,
+- Roscido nobis digito furentem
+- {:.indent-3}Discute flammam.
+- Nunc abi felix tamen et recedens
+- Semper huc ad nos animo recurre;
+- Esto nobiscum, licet ad paternam
+- {:.indent-3}Veneris urbem.
+- Non enim unius populi magistrum,
+- Sed nec unius dedit esse civem
+- Te Deus terrae: patria ecce nostra
+- {:.indent-3}Te sibi sumit.
+- Nunc tuos aequa pietate utrisque
+- Divide affectus; et amore nobis,
+- Civibus vultu, gemina morare
+- {:.indent-3}Civis ora.
+- Forsan et maior patria haec habenda,
+- Non manu factis ubi contineris
+- Pectorum tectis, hominesque vivam
+- {:.indent-3}Incolis urbem.
+- Sicut antistes, ita dignus almi
+- Hospes es Christi, quia christianis
+- Mentibus consors, habitas herile
+- {:.indent-3}Accola templum.
+- Iam vale nobis, et in omne nostri
+- Diligens aevum, bonus usque finem
+- Duc bonum cursum, positamque iustis
+- {:.indent-3}Sume coronam.
+
+---
