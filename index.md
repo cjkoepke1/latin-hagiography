@@ -71,6 +71,7 @@ title: "Latin Hagiography"
 - [De Crispino I, episcopo Ticinensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-crispino-i/)
 - [De Crispino I, episcopo Ticinensi in Italia, Bernardino Sacco auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-crispino-bernardini-sacci/)
 - [De Luciano, presbytero et martyre Antiocheno (BHL 5007)](https://cjkoepke1.github.io/latin-hagiography/texts/de-luciano-antiocheno/)
+- [Carmen Paulini ad Nicetam, episcopum Romatianae, redeuntem in Daciam](https://cjkoepke1.github.io/latin-hagiography/texts/carmen-paulini-ad-nicetam/)
 - [De Senatore, episcopo Veronensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-senatore-veronensi/)
 - [Oratio de Tillone Paulo, monacho Solemniaci in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-de-tillone-paulo/)
 
