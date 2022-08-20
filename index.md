@@ -74,6 +74,7 @@ title: "Latin Hagiography"
 - [Carmen Paulini ad Nicetam, episcopum Romatianae, redeuntem in Daciam](https://cjkoepke1.github.io/latin-hagiography/texts/carmen-paulini-ad-nicetam/)
 - [De Senatore, episcopo Veronensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-senatore-veronensi/)
 - [Oratio de Tillone Paulo, monacho Solemniaci in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-de-tillone-paulo/)
+- [De Valentino, episcopo Pataviensi in Germania](https://cjkoepke1.github.io/latin-hagiography/texts/de-valentino-pataviensi/)
 
 ### 8. *A.d. VI Id. Ian.*
 
