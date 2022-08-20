@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Carmen Paulini ad Nicetam, episcopum Romatianae, redeuntem in Daciam
+title: Carmen ad Nicetam, episcopum Romatianae, redeuntem in Daciam
 bhl: N/A
 feast: January 7
 author: Paulinus of Nola
