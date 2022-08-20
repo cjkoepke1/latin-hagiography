@@ -78,6 +78,7 @@ title: "Latin Hagiography"
 - [Carmen Paulini de natalicio Felicis et de Niceta, episcopo Romatianae in Dacia](https://cjkoepke1.github.io/latin-hagiography/texts/carmen-paulini-de-natalicio-felicis/)
 - [De Senatore, episcopo Veronensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-senatore-veronensi/)
 - [Oratio de Tillone Paulo, monacho Solemniaci in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/oratio-de-tillone-paulo/)
+- [De Valentino II, episcopo Interamnensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-valentino-ii-interamnensi/)
 - [De Valentino, episcopo Pataviensi in Germania](https://cjkoepke1.github.io/latin-hagiography/texts/de-valentino-pataviensi/)
 
 ### 8. *A.d. VI Id. Ian.*
