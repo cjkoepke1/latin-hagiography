@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: De Benedicto Biscopio, abbate in Anglia
-bhl: NA
+bhl: N/A
 feast: January 12
 author: Anonymous
 editor: Carson Koepke
