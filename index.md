@@ -31,6 +31,7 @@ title: "Latin Hagiography"
 ### 2. *Ante diem IV Nonas Ianuarias*
 
 - [De Argaeo, Marcellino et Narcisso, martyribus Tomis in Ponto](https://cjkoepke1.github.io/latin-hagiography/texts/de-argaeo-et-sociis/)
+- [De Defendente et sociis, martyribus ex legione Thebaea](https://cjkoepke1.github.io/latin-hagiography/texts/de-defendente/)
 - [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii/)
 - [Vita Macarii, Alexandrini abbatis in Thebaide (BHL 5096)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-macarii-alexandrini/)
 - [De Sebastiano et Alverio, martyribus ex legione Thebaea in Pedemontio](https://cjkoepke1.github.io/latin-hagiography/texts/de-sebastiano-et-alverio/)
