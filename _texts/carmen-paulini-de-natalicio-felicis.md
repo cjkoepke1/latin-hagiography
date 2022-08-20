@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Carmen IX de natalicio Felicis et de Niceta, episcopo Romatianae in Dacia
+title: Carmen de natalicio Felicis et de Niceta, episcopo Romatianae in Dacia
 bhl: N/A
 feast: January 7
 author: Paulinus of Nola
