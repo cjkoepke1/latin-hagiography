@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: De Valentino II, episcopo Interamnensi in Italia
-bhl: NA
+bhl: N/A
 feast: January 7
 author: Philippus Ferrarius
 editor: Carson Koepke
