@@ -42,6 +42,7 @@ title: "Latin Hagiography"
 - [De Florentio, episcopo Viennensi et martyre in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/de-florentio-viennensi/)
 - [Passio Melori martyris in Anglia (BHL 5905)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-melori/)
 - [Passio Petri Balsami, martyris in Palaestina (BHL 6702)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-balsami/)
+- [De Salvatore, episcopo Beluni in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-salvatore-beluni/)
 - [Passio Theogenis, Primi et Cyrini, martyrum in Hellesponto (BHL 8107)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-theogenis/)
 
 ### 4. *Pridie Nonas Ianuarias*
