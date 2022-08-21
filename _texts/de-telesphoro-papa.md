@@ -10,7 +10,7 @@ source: Louis Duchesne, Le Liber Pontificalis
 
 ---
 
-Ex *Lib. Pontificali* (ed. Duchesne)
+## Ex *Lib. Pontificali* (ed. Duchesne)
 
 ---
 
