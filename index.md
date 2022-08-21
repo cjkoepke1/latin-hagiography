@@ -35,6 +35,7 @@ title: "Latin Hagiography"
 - [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii/)
 - [Vita Macarii, Alexandrini abbatis in Thebaide (BHL 5096)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-macarii-alexandrini/)
 - [De Sebastiano et Alverio, martyribus ex legione Thebaea in Pedemontio](https://cjkoepke1.github.io/latin-hagiography/texts/de-sebastiano-et-alverio/)
+- [De Silvestro, monacho Trainae in Sicilia](https://cjkoepke1.github.io/latin-hagiography/texts/de-silvestro-trainae/)
 
 ### 3. *A.d. III Non. Ian.*
 
