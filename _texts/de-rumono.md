@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Lib. 2 Gestorum Pontificum Anglorum
 
 ---
 
-Ex Lib. 2 *Gestorum Pontificum Anglorum*
+## Ex Lib. 2 *Gestorum Pontificum Anglorum*
 
 ---
 
