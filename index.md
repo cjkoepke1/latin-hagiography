@@ -51,6 +51,7 @@ title: "Latin Hagiography"
 - [Translatio Faustae, virginis et martyris in Aquitania (BHL 2832)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-faustae/)
 - [Vita Neophytae, virginis et martyris (BHL 6051)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-neophytae/)
 - [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis/)
+- [De Rumono, episcopo Tavestokae in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-rumono/)
 - [Acta Theopempti, episcopi et martyris Nicomediae (BHL 8119)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-theopempti/)
 
 ### 5. *Nonis Ianuariis*
