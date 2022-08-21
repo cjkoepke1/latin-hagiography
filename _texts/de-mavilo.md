@@ -10,7 +10,7 @@ source: Acta Sanctorum ex Lib. ad Scapulam, cap. 3; The Latin Library
 
 ---
 
-Ex *Lib. ad Scapulam*, cap. 3
+## Ex *Lib. ad Scapulam*, cap. 3
 
 ---
 
