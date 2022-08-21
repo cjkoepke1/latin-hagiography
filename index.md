@@ -146,6 +146,7 @@ title: "Latin Hagiography"
 - [Vita metrica Godefridi, comitis Capenbergensis in Westphalia (BHL 3577)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-metrica-godefridi/)
 - [Acta Gumesindi presbyteri et Servi Dei monachi, martyrum Cordubae in Hispania](https://cjkoepke1.github.io/latin-hagiography/texts/acta-gumesindi/)
 - [Miracula Hilarii, episcopi Pictaviensis in Gallia, Flodoarde auctore](https://cjkoepke1.github.io/latin-hagiography/texts/miracula-hilarii-flodoardi/)
+- [Hymni de Potito martyre](https://cjkoepke1.github.io/latin-hagiography/texts/hymni-de-potito/)
 
 ### 14. *A.d. XIX Kalendas Februarias*
 
