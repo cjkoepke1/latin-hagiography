@@ -11,7 +11,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## I. *Antiphonae in Vesperis et Laudibus*
-&nbsp  
+&nbsp;
 - Ostella Christi fulgida,
 - Potite martyr inclite,
 - Obscura culpae nubila
@@ -40,7 +40,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## II. *Hymnus in Vesperis*
-&nbsp  
+&nbsp;
 - Claret Eois puer ortus oris,
 - Claret illustri patre, claret alta
 - Matre, quid mirum quod in urbe clara
@@ -89,7 +89,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## III. *Hymnus ad matutinum*
-&nbsp  
+&nbsp;
 - Potite martyr inclite,
 - Dum sacra reddis annuo
 - Ritu colenda virginum,
@@ -128,7 +128,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## IV. *Antiphonae ad I. Nocturnum*
-&nbsp  
+&nbsp;
 - Iesu decora caelitum
 - Corolla, Iesu martyrum
 - Spes, cerne nos, dum militis
@@ -162,7 +162,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## V. *Antiphonae ad II. Nocturnum*
-&nbsp  
+&nbsp;
 - Phoenix ut inter cynnama
 - Exusta fit vivacior;
 - Sic hic lebete fervido
@@ -196,7 +196,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## VI. *Hymnus ad Laudes*
-&nbsp  
+&nbsp;
 - Ingens Dei potentia,
 - Et martyris victoria,
 - Crudelis ira praesidis
@@ -235,7 +235,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## VII. *Hymnus ad II. Vesperas*
-&nbsp  
+&nbsp;
 - Ardet o felix anima, ardet igne,
 - Igne divino, rabiem tyranni
 - Voce demulcet placida, silendo
@@ -289,7 +289,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## VIII. *Varia Responsoria*
-&nbsp  
+&nbsp;
 - […][^1] Grate mi, puer, aure dextra,
 - Quas tibi laudes recinunt sacratae
 - Virgines, sancte, ac modulos pudico
@@ -338,7 +338,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## IX. *Varia Responsoria*
-&nbsp  
+&nbsp;
 - Pauper ad nudum properare Iesum
 - Pergit amplexa Cruce. Fit supernae
 - Praevius doctor patriae, fit alti
@@ -392,7 +392,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## X. *Varia Responsoria*
-&nbsp  
+&nbsp;
 - Non pius laedit liquor, aut eburna
 - Membra tam candens oleum, nec ignis
 - Quid pili tangit minimum: pudorem
