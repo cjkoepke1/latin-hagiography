@@ -11,7 +11,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## I. *Antiphonae in Vesperis et Laudibus*
-
+&nbsp  
 - Ostella Christi fulgida,
 - Potite martyr inclite,
 - Obscura culpae nubila
@@ -40,7 +40,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## II. *Hymnus in Vesperis*
-
+&nbsp  
 - Claret Eois puer ortus oris,
 - Claret illustri patre, claret alta
 - Matre, quid mirum quod in urbe clara
@@ -89,7 +89,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## III. *Hymnus ad matutinum*
-
+&nbsp  
 - Potite martyr inclite,
 - Dum sacra reddis annuo
 - Ritu colenda virginum,
@@ -128,7 +128,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## IV. *Antiphonae ad I. Nocturnum*
-
+&nbsp  
 - Iesu decora caelitum
 - Corolla, Iesu martyrum
 - Spes, cerne nos, dum militis
@@ -162,7 +162,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## V. *Antiphonae ad II. Nocturnum*
-
+&nbsp  
 - Phoenix ut inter cynnama
 - Exusta fit vivacior;
 - Sic hic lebete fervido
@@ -196,7 +196,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## VI. *Hymnus ad Laudes*
-
+&nbsp  
 - Ingens Dei potentia,
 - Et martyris victoria,
 - Crudelis ira praesidis
@@ -216,17 +216,17 @@ source: Acta Sanctorum ex Officio Potiti
 - Quae Iesus ultro contulit,
 - Sacris roga virgunculis
 - Candentis Agni nuptias.
-   
+
 - Post quem canendo gestiant
 - Plenis oliva lampadis;
 - Odora dent vaccinia,
 - Stolis amictae candidis.
-     
+
 - A vanitate saeculi,
 - A carnis aestu lubricae,
 - Et a maligno daemone
 - Hastu, Potite, libera.
-    
+
 - Deo sit uni gloria,
 - Qui nos ab omni protegat
 - Malo, precatu martyris,
@@ -235,7 +235,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## VII. *Hymnus ad II. Vesperas*
-
+&nbsp  
 - Ardet o felix anima, ardet igne,
 - Igne divino, rabiem tyranni
 - Voce demulcet placida, silendo
@@ -289,7 +289,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## VIII. *Varia Responsoria*
-
+&nbsp  
 - […][^1] Grate mi, puer, aure dextra,
 - Quas tibi laudes recinunt sacratae
 - Virgines, sancte, ac modulos pudico
@@ -338,7 +338,7 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## IX. *Varia Responsoria*
-
+&nbsp  
 - Pauper ad nudum properare Iesum
 - Pergit amplexa Cruce. Fit supernae
 - Praevius doctor patriae, fit alti
@@ -392,11 +392,11 @@ source: Acta Sanctorum ex Officio Potiti
 ---
 
 ## X. *Varia Responsoria*
-
+&nbsp  
 - Non pius laedit liquor, aut eburna
 - Membra tam candens oleum, nec ignis
 - Quid pili tangit minimum: pudorem
--{:.indent-3}Flamma veretur.
+- {:.indent-3}Flamma veretur.
 
 - Martyr a summo, precor, axe gratis
 - Gratiam per te […] praestet orbis
