@@ -49,6 +49,7 @@ title: "Latin Hagiography"
 
 ### 4. *Pridie Nonas Ianuarias*
 
+- [De Angela de Fulginio, vidua in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-angela-de-fulginio/)
 - [De Dafrosa, vidua et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-dafrosa/)
 - [Translatio Faustae, virginis et martyris in Aquitania (BHL 2832)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-faustae/)
 - [Vita Gregorii, episcopi Lingonensis in Gallia (BHL 3666)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-gregorii-lingonensis/)
