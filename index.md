@@ -62,6 +62,7 @@ title: "Latin Hagiography"
 ### 5. *Nonis Ianuariis*
 
 - [Vita Simeonis Stylitae, iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
+- [De Telesphoro, papa et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-telesphoro-papa/)
 
 ### 6. *A.d. VIII Idus Ianuarias*
 
