@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Oratio de Tillone Paulo, monacho Solemniaci in Gallia
-bhl: NA
+bhl: N/A
 feast: January 7
 author: Anonymous
 editor: Carson Koepke
