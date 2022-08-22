@@ -8,7 +8,9 @@ editor: Carson Koepke
 source: Acta Sanctorum
 ---
 
-Ex Lib. 8 *Historiae Ecclesiasticae*, cap. 8
+---
+
+## Ex Lib. 8 *Historiae Ecclesiasticae*, cap. 8
 
 ---
 
