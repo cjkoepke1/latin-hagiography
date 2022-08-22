@@ -61,6 +61,7 @@ title: "Latin Hagiography"
 
 ### 5. *Nonis Ianuariis*
 
+- [De martyribus in Thebaide sub Diocletiano](https://cjkoepke1.github.io/latin-hagiography/texts/de-martyribus-in-thebaide/)
 - [Vita Simeonis Stylitae, iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
 - [De Telesphoro, papa et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-telesphoro-papa/)
 
