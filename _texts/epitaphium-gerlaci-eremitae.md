@@ -11,10 +11,10 @@ source: Acta Sanctorum ex Diplomatibus Belgicorum
 ---
 
 - Gerlacus miles quondam, post cultor eremi,
-- {:.indent-3}Hoc mausolaeo conditur arte suo.
+- {:.indent-3}Hoc mausolaeo conditur arte suo.
 - Contempsitque lares, aras, patriosque penates;
-- {:.indent-3}Matta silex, aedes concava quercus erat.
+- {:.indent-3}Matta silex, aedes concava quercus erat.
 - Vitae lascivos redimis Gerlace reatus,
-- {:.indent-3}Cedens virgineo rura paterna choro.
+- {:.indent-3}Cedens virgineo rura paterna choro.
 
 ---
