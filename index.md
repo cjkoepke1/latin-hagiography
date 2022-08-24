@@ -61,6 +61,7 @@ title: "Latin Hagiography"
 
 ### 5. *Nonis Ianuariis*
 
+- [De Amata, abbatissa Antinoi in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/de-amata-abbatissa/)
 - [Epitaphium Gerlaci, eremitae in Belgio](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-gerlaci-eremitae/)
 - [De martyribus in Thebaide sub Diocletiano](https://cjkoepke1.github.io/latin-hagiography/texts/de-martyribus-in-thebaide/)
 - [Vita Simeonis Stylitae, iuxta Antiochiam in Syria (BHL 7957)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-simeonis/)
