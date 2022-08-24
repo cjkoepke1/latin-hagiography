@@ -30,6 +30,7 @@ title: "Latin Hagiography"
 
 ### 2. *Ante diem IV Nonas Ianuarias*
 
+- [Versus de Adelardo, abbate Corbeiensi in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/versus-de-adelardo-abbate/)
 - [De Argaeo, Marcellino et Narcisso, martyribus Tomis in Ponto](https://cjkoepke1.github.io/latin-hagiography/texts/de-argaeo-et-sociis/)
 - [De Defendente et sociis, martyribus ex legione Thebaea](https://cjkoepke1.github.io/latin-hagiography/texts/de-defendente/)
 - [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii/)
