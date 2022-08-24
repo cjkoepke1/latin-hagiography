@@ -58,7 +58,7 @@ I. *Hymnus ad Vesperas et Laudes*
 
 ---
 
-- II. *Hymnus ad Matutinum*
+II. *Hymnus ad Matutinum*
 
 - Gerlacus ille, sanctitas
 - Cuius tot olim claruit,
