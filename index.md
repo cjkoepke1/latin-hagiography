@@ -34,6 +34,7 @@ title: "Latin Hagiography"
 - [De Defendente et sociis, martyribus ex legione Thebaea](https://cjkoepke1.github.io/latin-hagiography/texts/de-defendente/)
 - [Passio Frontasii, Severini, Severiani et Silani, martyrum in Gallia (BHL 3181)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-frontasii/)
 - [Vita Macarii, Alexandrini abbatis in Thebaide (BHL 5096)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-macarii-alexandrini/)
+- [Epitaphium Odinonis, abbatis Rothensis in Suevia](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-odinonis/)
 - [De Sebastiano et Alverio, martyribus ex legione Thebaea in Pedemontio](https://cjkoepke1.github.io/latin-hagiography/texts/de-sebastiano-et-alverio/)
 - [De Silvestro, monacho Trainae in Sicilia](https://cjkoepke1.github.io/latin-hagiography/texts/de-silvestro-trainae/)
 
