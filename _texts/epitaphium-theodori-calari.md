@@ -13,3 +13,7 @@ source: Acta Sanctorum
 IK IAKET B. M. THEODORVS OPT. QVI VIXIT AN. PLV MN. XXXXV REQVIEBIT IN PAKE. NONIS IANVARII IND. IIII.
 
 ---
+
+*Hic iacet beatus martyr Theodorus optimus, qui vixit annos plus minus XXXXV. Requivit in pace Nonis Ianuarii, indictione IIII.*
+
+---
