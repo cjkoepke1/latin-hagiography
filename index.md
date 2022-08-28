@@ -63,7 +63,7 @@ title: "Latin Hagiography"
 
 ### 5. *Nonis Ianuariis*
 
-- [De Aemiliana, virgine et amita Gregorii papae Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-aemiliana-amata-gregorii/)
+- [De Aemiliana, virgine et amita Gregorii papae Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-aemiliana-amita-gregorii/)
 - [De Amata, abbatissa Antinoi in Thebaide](https://cjkoepke1.github.io/latin-hagiography/texts/de-amata-abbatissa/)
 - [Epitaphium Gerlaci, eremitae in Belgio](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-gerlaci-eremitae/)
 - [Hymni de Gerlaco, eremita in Belgio](https://cjkoepke1.github.io/latin-hagiography/texts/hymni-de-gerlaco/)
