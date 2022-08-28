@@ -120,6 +120,7 @@ title: "Latin Hagiography"
 
 ### 10. *A.d. IV Id. Ian.*
 
+- [De Agathone Thaumaturgo, papa Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-agathone-thaumaturgo/)
 - [Epitaphium Agathonis Thaumaturgi, papae Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-agathonis/)
 - [Revelatio reliquiarum Genovefae, virginis Parisiis in Gallia (BHL 3346)](https://cjkoepke1.github.io/latin-hagiography/texts/revelatio-genovefae/)
 - [De Iohanne Camillo Bono, episcopo Mediolanensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-iohanne-bono/)
