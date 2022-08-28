@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: Sermo Faustini episcopi in Kalendis Ianuariis
+title: Sermo in Kalendis Ianuariis
 bhl: N/A
 feast: January 1
-author: Faustinus
+author: Faustinus episcopus
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
