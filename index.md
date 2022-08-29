@@ -55,6 +55,7 @@ title: "Latin Hagiography"
 - [De Dafrosa, vidua et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-dafrosa/)
 - [Translatio Faustae, virginis et martyris in Aquitania (BHL 2832)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-faustae/)
 - [Vita Gregorii, episcopi Lingonensis in Gallia (BHL 3666)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-gregorii-lingonensis/)
+- [Vita Libentii, archiepiscopi Bremensis in Germania](https://cjkoepke1.github.io/latin-hagiography/texts/vita-libentii-bremensis/)
 - [De Mavilo, martyre Adrumeti in Africa, Tertulliano auctore](https://cjkoepke1.github.io/latin-hagiography/texts/de-mavilo/)
 - [Vita Neophytae, virginis et martyris (BHL 6051)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-neophytae/)
 - [Miraculum Pharaildis, virginis et viduae in Brabantia (BHL 6794)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-pharaildis/)
