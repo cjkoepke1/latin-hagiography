@@ -83,6 +83,7 @@ title: "Latin Hagiography"
 - [Miraculum Melanii, episcopi Rhedonensis in Gallia (BHL 5893)](https://cjkoepke1.github.io/latin-hagiography/texts/miraculum-melanii/)
 - [Miracula Melanii, episcopi Rhedonensis in Gallia (BHL 5894)](https://cjkoepke1.github.io/latin-hagiography/texts/miracula-melanii/)
 - [De Petro, abbate Cantuariensi in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-petro-cantuariensi/)
+- [Epitaphium Pompeiani, martyris Calari in Sardinia](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-pompeiani/)
 
 ### 7. *A.d. VII Id. Ian.*
 
