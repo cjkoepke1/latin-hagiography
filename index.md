@@ -176,6 +176,10 @@ title: "Latin Hagiography"
 - [Inventio virginum Maurae et Brittae, apud Turones in Gallia (BHL 5726)](https://cjkoepke1.github.io/latin-hagiography/texts/inventio-maurae-brittae/)
 - [Passio Secundinae, virginis et martyris Anagniae in Latio (BHL 7553)](https://cjkoepke1.github.io/latin-hagiography/texts/passio-secundinae/)
 
+### 16. *A.d. XVII Kal. Feb.*
+
+- [Epitaphium Marcelli, papae et martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-marcelli-papae/)
+
 ---
 
 ## February (*Mensis Februarius*)
