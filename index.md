@@ -108,6 +108,7 @@ title: "Latin Hagiography"
 - [De Pega, virgine in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-pega/)
 - [De Maximo, episcopo Ticinensi in Italia](https://cjkoepke1.github.io/latin-hagiography/texts/de-maximo-ticinensi/)
 - [Epistola Eugippii de Severino, presbytero et Noricorum apostolo Neapoli (BHL 7655)](https://cjkoepke1.github.io/latin-hagiography/texts/epistola-eugippii-de-severino/)
+- [Epigraphe Panormi de Laurentio Iustiniano, primo patriarcha Veneto](https://cjkoepke1.github.io/latin-hagiography/texts/epigraphe-de-laurentio-iustiniano/)
 - [Epistola Paschasii de Severino, presbytero et Noricorum apostolo Neapoli (BHL 7657)](https://cjkoepke1.github.io/latin-hagiography/texts/epistola-paschasii-de-severino/)
 - [De Wulsino, episcopo Schireburnensi in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-wulsino/)
 
