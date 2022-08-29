@@ -8,6 +8,8 @@ editor: Carson Koepke
 source: Acta Sanctorum ex Gestis Hammaburgensis Ecclesiae Pontificum
 ---
 
+---
+
 ## Ex *Gestis Hammaburgensis ecclesiae pontificum*, Lib. 2, cap. 29
 
 ---
