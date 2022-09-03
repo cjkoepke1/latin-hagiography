@@ -181,6 +181,7 @@ title: "Latin Hagiography"
 - [Euchariston Sidonii Apollinaris ad Faustum, episcopum Reiensem in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/euchariston-ad-faustum/)
 - [Sermo in translatione Honorati, archiepiscopi Arelatensis (BHL 3979)](https://cjkoepke1.github.io/latin-hagiography/texts/sermo-in-translatione-honorati/)
 - [Epitaphium Marcelli, papae et martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-marcelli-papae/)
+- [Epitome de Titiano, episcopo Opitergiensi Venetiae (BHL 8304)](https://cjkoepke1.github.io/latin-hagiography/texts/epitome-de-titiano-opitergiensi/)
 - [Vita Titiani, episcopi Opitergiensis Venetiae](https://cjkoepke1.github.io/latin-hagiography/texts/vita-titiani-opitergiensis/)
 
 ---
