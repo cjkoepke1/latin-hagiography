@@ -178,6 +178,7 @@ title: "Latin Hagiography"
 
 ### 16. *A.d. XVII Kal. Feb.*
 
+- [Euchariston Sidonii Apollinaris ad Faustum, episcopum Reiensem in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/euchariston-ad-faustum/)
 - [Sermo in translatione Honorati, archiepiscopi Arelatensis (BHL 3979)](https://cjkoepke1.github.io/latin-hagiography/texts/sermo-in-translatione-honorati/)
 - [Epitaphium Marcelli, papae et martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-marcelli-papae/)
 
