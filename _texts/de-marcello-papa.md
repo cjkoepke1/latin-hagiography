@@ -10,7 +10,7 @@ source: Acta Sanctorum; L. Duchesne
 
 ---
 
-## Ex *Lib. pontificali* (*Acta Sanctorum* /Ed. L. Duchesne)
+## Ex *Lib. pontificali* (*Acta Sanctorum* / Ed. L. Duchesne)
 
 ---
 
