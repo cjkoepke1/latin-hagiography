@@ -1,0 +1,142 @@
+---
+layout: poem
+title: Euchariston ad Faustum, episcopum Reiensem in Gallia
+bhl: N/A
+feast: January 16
+author: Sidonius Apollinaris
+editor: W.B. Anderson; Carson Koepke
+source: Acta Sanctorum; Perseus
+---
+
+---
+
+- Phoebum et ter ternas decima cum Pallade Musas
+- Orpheaque et laticem simulatum fontis equini
+- Ogygiamque chelyn, quae saxa sequacia flecteris
+- Cantibus auritos erexit carmine muros,
+- Sperne, fidis; magis ille veni nunc spiritus, oro,
+- Pontificem dicture tuum, qui pectora priscae
+- Intrasti Mariae, rapiens cum tympana siccus
+- Israel appensi per concava gurgitis iret
+- Aggeribus vallatus aquae mediasque per undas
+- Pulverulenta tuum clamaret turba triumphum; 
+- Quique manum Iudith ferientem colla Olophernis
+- Iuvisti, exciso iacuit cum gutture truncus
+- Et fragilis valido latuit bene sexus in ictu;
+- Expresso vel qui complens de vellere pelvem
+- Inficiensque dehinc non tacto vellere terram
+- Firmasti Gedeona, tubis inserte canoris
+- Spiritus, et solo venit victoria cantu;
+- Quique etiam adsumptum pecorosi de grege Iesse
+- Adflasti regem, plaustro cum foederis arcam
+- Imponens hostis nullo moderante bubulco
+- Proderet obscaenum turgenti podice morbum;
+- Quique trium quondam puerorum in fauce sonasti,
+- Quos in Chaldaei positos fornace tyranni
+- Roscida combusto madefecit flamma camino;
+- Quique volubilibus spatiantem tractibus alvi
+- Complesti Ionam, resonant dum viscera monstri
+- Introrsum psallente cibo vel pondera ventris
+- Ieiuni plenique tamen vate intemerato
+- Ructat cruda fames, quem singultantibus extis
+- Esuriens vomuit suspenso belua morsu;
+- Quique duplex quondam venisti in pectus Helisei,
+- Thesbiten cum forte senem iam flammeus axis
+- Tolleret et scissam linquens pro munere pellem
+- Hispidus ardentes auriga intraret habenas;
+- Quique etiam Heliam terris missure secundum
+- Zachariae iusti linguam placate ligasti,
+- Dum faceret serum rugosa puerpera patrem,
+- Edita significans iusso reticere propheta,
+- Gratia cum fulsit, nosset se ut lex tacituram;
+- Quique etiam nascens ex virgine semine nullo,
+- Ante ullum tempus deus atque in tempore Christus,
+- Ad corpus quantum spectat, tu te ipse creasti;
+- Qui visum caecis, gressum quoque reddere claudis,
+- Auditum surdis, mutis laxare loquelam
+- Suetus ad hoc etiam venisti, ut mortua membra
+- Lecto, sandapila, tumulo consurgere possint;
+- Quique etiam poenas suscepta in carne tulisti,
+- Sustentans alapas, ludibria, verbera, vepres,
+- Sortem, vincla, crucem, clavos, fel, missile, acetum,
+- Postremo mortem, sed surrecturus, adisti,
+- Eripiens quidquid veteris migraverat hostis
+- In ius per nostrum facinus, cum femina prima
+- Praeceptum solvens culpa nos perpete vinxit;
+- Qui cum te interitu petiit nec repperit in te
+- Quod posset proprium convincere, perdidit omne
+- Quod lapsu dedit Eva suo; chirographon illum,
+- Quo pervasus homo est, haec compensatio rupit,
+- Expers peccati pro peccatoribus amplum
+- Fis pretium veteremque novus vice faenoris Adam,
+- Dum moreris, de morte rapis. Sic mortua mors est,
+- Sic sese insidiis quas fecerat ipsa fefellit;
+- Nam dum indiscrete petit insontemque reosque,
+- Egit ut absolvi possent et crimine nexi;
+- Quique etiam iustos ad tempus surgere tecum
+- Iussisti cineres, cum tectis tempore longo
+- Inrupit festina salus infusaque raptim
+- Excussit tumulis solidatas vita favillas:
+- Da Faustum laudare tuum, da solvere grates,
+- Quas et post debere iuvat, te magne sacerdos
+- Barbitus hic noster, plectro licet impare, cantat.
+- Haec igitur prima est vel caussa vel actio laudum,
+- Quod mihi germani, dum lubrica voluitur aetas,
+- Servatus tecum Domini per dona probatur
+- Nec fama titubante pudor. Te respicit istud
+- Quantumcumque bonum. Merces debebitur illi,
+- Ille tibi. Sit laus, si labi noluit, eius;
+- Nam quod nec potuit, totum ad te iure redundat.
+- Praeterea quod me pridem Reios veniente
+- Cum Procyon fureret, cum solis torridus ignis
+- Flexilibus rimis sitientes scinderet agros,
+- Hospite te nostros excepit protinus aestus
+- Pax, domus, umbra, latex, benedictio, mensa, cubile.
+- Omnibus attamen his sat praestat, quod voluisti
+- Ut sanctae matris sanctum quoque limen adirem.
+- Dirigui, fateor, mihi conscius, atque repente
+- Tinxit adorantem pavidum reverentia vultum:
+- Nec secus intremui, quam si me forte Rebeccae
+- Israel, aut Samuel crinitus duceret Annae.
+- Quapropter vel te votis sine fine colentes,
+- Affectum magnum per carmina parva fatemur.
+- Seu te flammatae Syrtes et inhospita tesqua,
+- Seu caeno viridante palus, seu nigra recessu
+- Incultum mage saxa tenent, ubi sole remoto
+- Concava longaevas asservant antra tenebras;
+- Seu te praeruptis porrectae in rupibus Alpis,
+- Succinctos gelido libantem cespite somnos
+- Anachorita tremit, qui quamquam frigora portet,
+- Conceptum Christi numquam domat ille calorem,
+- Qua nunc Elias, nunc te iubet ire Iohannes,
+- Nunc duo Macarii, nunc et Paphnutius heros,
+- Nunc Or, nunc Ammon, nunc Sarmata, nunc Hilarion;
+- Nunc vocat in tunica nudus te Antonius illa,
+- Quam fecit palmae foliis manus alma magistri;
+- Seu te Lirinus priscum complexa parentem est,
+- Qua tu iam fractus pro magna saepe quiete
+- Discipulis servire venis, vixque oria somni,
+- Vix coctos captare cibos, abstemius aevum
+- Ducis, et insertis pingis ieiunia psalmis;
+- Fratribus insinuans, quantos illa insula plana
+- Miserit in caelum montes, quae sancta Caprasi
+- Vita senis, iuvenisque Lupi, quae gratia patrem
+- Mansit Honoratum; fuerit quis Maximus ille,
+- Urbem tu cuius monachusque, antistes, et abbas,
+- Bis successor agis; celebrans quoque laudibus illis
+- Eucherii venientis iter, redeuntis Hilari;
+- Seu te commissus populus tenet, et minor audet
+- Te medio tumidos maiorum temnere mores;
+- Seu tu sollicitas curas qua languidus esca
+- Quave peregrinus vivat, quid pascat et illum
+- Lubrica crura cui tenuat sub compede carcer:
+- Seu, mage funeribus mentem distractus humandis,
+- Livida defuncti si pauperis ossa virescant,
+- Infastiditum fers ipse ad busta cadaver:
+- Seu te conspicuis gradibus venerabilis arae
+- Concionaturum plebs sedula circumsistit,
+- Expositae legis bibat auribus ut medicinam;
+- Quicquid agis, quocumque loci es, semper mihi Faustus,
+- Semper Honoratus, semper quoque Maximus esto.
+
+---
