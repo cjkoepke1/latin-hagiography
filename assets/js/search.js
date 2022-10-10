@@ -8,9 +8,9 @@ var index = elasticlunr(function () {
   this.addField('title')
   this.addField('author')
   this.addField('layout')
-  this.addField('content')
   this.addField('bhl')
   this.addField('feast')
+  this.addField('content')
   this.setRef('id')
 });
 
@@ -20,9 +20,9 @@ index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
-  content: {{text.content | jsonify | strip_html}},
   bhl: {{text.bhl | jsonify | strip_html}},
   feast: {{text.feast | jsonify | strip_html}},
+  content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
 console.log( jQuery.type(index) );
