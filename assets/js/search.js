@@ -20,8 +20,8 @@ index.addDoc({
   title: {{text.title | jsonify}},
   author: {{text.author | jsonify}},
   layout: {{text.layout | jsonify}},
-  bhl: {{text.bhl | jsonify | strip_html}},
-  feast: {{text.feast | jsonify | strip_html}},
+  bhl: {{text.bhl | jsonify}},
+  feast: {{text.feast | jsonify}},
   content: {{text.content | jsonify | strip_html}},
   id: {{count}}
 });{% assign count = count | plus: 1 %}{% endfor %}
@@ -33,8 +33,8 @@ var store = [{% for text in site.texts %}{
   "author": {{text.author | jsonify}},
   "layout": {{text.layout | jsonify}},
   "bhl": {{text.bhl | jsonify}},
-  "feast": {{text.feast | jsonify}}
-  "link": {{text.url | jsonify}},
+  "feast": {{text.feast | jsonify}},
+  "link": {{text.url | jsonify}}
 }
 {% unless forloop.last %},{% endunless %}{% endfor %}]
 
