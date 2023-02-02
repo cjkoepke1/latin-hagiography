@@ -187,6 +187,10 @@ title: "Latin Hagiography"
 - [Epitome de Titiano, episcopo Opitergiensi Venetiae (BHL 8304)](https://cjkoepke1.github.io/latin-hagiography/texts/epitome-de-titiano-opitergiensi/)
 - [Vita Titiani, episcopi Opitergiensis Venetiae](https://cjkoepke1.github.io/latin-hagiography/texts/vita-titiani-opitergiensis/)
 
+### 17. *A.d. XVI Kal. Feb.*
+
+- [De Mildwida, virgine in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-mildwida/)
+
 ---
 
 ## February (*Mensis Februarius*)
