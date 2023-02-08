@@ -198,6 +198,7 @@ title: "Latin Hagiography"
 ### 1. *Kalendis Februariis*
 
 - [Vita Agrippani, episcopi et martyris Podii in Gallia (BHL 171)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-agrippani-episcopi)
+- [Epitaphium Wolfholdi, presbyteri in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-wolfholdi)
 
 ---
 
