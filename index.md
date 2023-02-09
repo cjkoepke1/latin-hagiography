@@ -191,6 +191,34 @@ title: "Latin Hagiography"
 
 - [De Mildwida, virgine in Anglia](https://cjkoepke1.github.io/latin-hagiography/texts/de-mildwida/)
 
+### 18. *A.d. XV Kal. Feb.*
+
+### 19. *A.d. XIV Kal. Feb.*
+
+### 20. *A.d. XIII Kal. Feb.*
+
+### 21. *A.d. XII Kal. Feb.*
+
+### 22. *A.d. XI Kal. Feb.*
+
+### 23. *A.d. X Kal. Feb.*
+
+### 24. *A.d. IX Kal. Feb.*
+
+### 25. *A.d. VIII Kal. Feb.*
+
+### 26. *A.d. VII Kal. Feb.*
+
+### 27. *A.d. VI Kal. Feb.*
+
+### 28. *A.d. V Kal. Feb.*
+
+### 29. *A.d. IV Kal. Feb.*
+
+### 30. *A.d. III Kal. Feb.*
+
+### 31. *Pridie Kalendas Februarias*
+
 ---
 
 ## February (*Mensis Februarius*)
