@@ -228,6 +228,10 @@ title: "Latin Hagiography"
 - [Vita Agrippani, episcopi et martyris Podii in Gallia (BHL 171)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-agrippani-episcopi)
 - [Epitaphium Wolfholdi, presbyteri in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-wolfholdi)
 
+### 4. *Pridie Non. Feb.*
+
+- [Epitaphium Eutychii, martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-eutychii)
+
 ---
 
 ## March (*Mensis Martius*)
