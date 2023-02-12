@@ -228,9 +228,19 @@ title: "Latin Hagiography"
 - [Vita Agrippani, episcopi et martyris Podii in Gallia (BHL 171)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-agrippani-episcopi)
 - [Epitaphium Wolfholdi, presbyteri in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-wolfholdi)
 
+### 2. *A.d. IV Non. Feb.*
+
+### 3. *A.d. III Non. Feb.*
+
 ### 4. *Pridie Non. Feb.*
 
 - [Epitaphium Eutychii, martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-eutychii)
+
+### 5. *Nonis Februariis*
+
+### 6. *A.d. VIII Id. Feb.*
+
+- [Hymni de Amando, episcopo Traiectensi Elenone in Belio](https://cjkoepke1.github.io/latin-hagiography/texts/hymni-de-amando)
 
 ---
 
