@@ -14,29 +14,29 @@ source: Acta Sanctorum
 
 &nbsp;  
 
-- Amande, Praesul optime,  dignus tuo qui nomine,
-- Amando Christum congruum,  sortitus es vocabulum.		
-- Audi tuorum dulcia,  vernaculorum carmina
-- Quae concinunt, gratissimo  praecordiorum gaudio.
-- Dum floruisti corpore,  mundum replesti lumine
-- Astrum poli nunc splendidam  candore vincis Cynthiam.	
-- Pater pius, pastor bonus,  multis fuisti gentibus:
-- Has recreando flumine,  illas docendo famine,		
-- Frater pupilli flebilis,  soror gementis exulis:
-- Patrem vocavit orphanus,  matremque sensit languidus.
-- Caecis ocellus lucidus,  claudisque pes tutissimus,
-- Perirque ligno pendulus,  vitam recepit mortuus.
-- Quid plura, miles inclite,  nostro canamus carmine?
-- Quicumque venit debilis,  nullus recessit flebilis.
-- Nunc Abrahae vernantibus  laetus quiescit sedibus,
-- De Iesu dulci corpore,  mandis, bibisque sanguine.
-- Iam copulatus inclitis  archangelorum gaudiis,
-- Vertex rubescit gemmulis,  et colla candent infulis.
-- Nostri memor sanctissime  hic exulantum corpore,
-- (Tuus popellus adsumus)  succurre nobis, quaesumus:
-- Ut quando Iesus venerit  cum carne, qua hinc abiit,
-- Non segregemur a tuo  clemens Pater consortio.
-- Deo Patri sit gloria,  Eiusque soli Filio. Amen.
+- Amande, Praesul optime,   dignus tuo qui nomine,
+- Amando Christum congruum,   sortitus es vocabulum.		
+- Audi tuorum dulcia,   vernaculorum carmina
+- Quae concinunt, gratissimo   praecordiorum gaudio.
+- Dum floruisti corpore,   mundum replesti lumine
+- Astrum poli nunc splendidam   candore vincis Cynthiam.	
+- Pater pius, pastor bonus,   multis fuisti gentibus:
+- Has recreando flumine,   illas docendo famine,		
+- Frater pupilli flebilis,   soror gementis exulis:
+- Patrem vocavit orphanus,   matremque sensit languidus.
+- Caecis ocellus lucidus,   claudisque pes tutissimus,
+- Perirque ligno pendulus,   vitam recepit mortuus.
+- Quid plura, miles inclite,   nostro canamus carmine?
+- Quicumque venit debilis,   nullus recessit flebilis.
+- Nunc Abrahae vernantibus   laetus quiescit sedibus,
+- De Iesu dulci corpore,   mandis, bibisque sanguine.
+- Iam copulatus inclitis   archangelorum gaudiis,
+- Vertex rubescit gemmulis,   et colla candent infulis.
+- Nostri memor sanctissime   hic exulantum corpore,
+- (Tuus popellus adsumus)   succurre nobis, quaesumus:
+- Ut quando Iesus venerit   cum carne, qua hinc abiit,
+- Non segregemur a tuo   clemens Pater consortio.
+- Deo Patri sit gloria,   Eiusque soli Filio. Amen.
 
 ---
 
@@ -49,7 +49,7 @@ source: Acta Sanctorum
 - Ave Praesul gloriose,  semper amantissime,
 
 - Iure tibi laudum melos  concinendo pangimus.
-- Sed condignas tanto  Patri ferre laudes nequimus,
+- Sed condignas tanto Patri  ferre laudes nequimus,
 - Corde tamen quod gestimus,  plectro linguae promimus.
 
 - A primaevo nempe flore  sacrae pueritiae
