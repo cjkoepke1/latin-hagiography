@@ -14,7 +14,7 @@ source: Acta Sanctorum
 
 &nbsp;  
 
-- Amande, Praesul optime,     dignus tuo qui nomine,
+- Amande, Praesul optime,     {:.indent-3}dignus tuo qui nomine,
 - Amando Christum congruum,     sortitus es vocabulum.		
 - Audi tuorum dulcia,     vernaculorum carmina
 - Quae concinunt, gratissimo     praecordiorum gaudio.
@@ -44,7 +44,7 @@ source: Acta Sanctorum
 
 &nbsp;  
 
-- Ave Pater, Pastor noster,     Pontifex egregie,
+- Ave Pater, Pastor noster,     {:.indent-3}Pontifex egregie,
 - Ave carus amor noster,     dulce nomen, Amande.
 - Ave Praesul gloriose,     semper amantissime,
 
