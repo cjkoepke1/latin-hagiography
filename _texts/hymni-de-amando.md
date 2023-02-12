@@ -43,43 +43,43 @@ source: Acta Sanctorum
 - Ave Pater, Pastor noster,     Pontifex egregie,
 - Ave carus amor noster,     dulce nomen, Amande.
 - Ave Praesul gloriose,     semper amantissime,
-
+- 
 - Iure tibi laudum melos     concinendo pangimus.
 - Sed condignas tanto     Patri ferre laudes nequimus,
 - Corde tamen quod gestimus,     plectro linguae promimus.
-
+- 
 - A primaevo nempe flore     sacrae pueritiae
 - Moribus aevum senile     visus es attingere,
 - Multis et normam praebere     perfectae iustitiae.
-
+- 
 - Mox signorum gloriosis     muneratus titulis,
 - Triumphalis signo Crucis     anguem saevum proteris
 - Verbique virtute pellis     ogiae de terminis.
-
+- 
 - Virtutes excoluisti     studio pervigili,
 - Ipse sed occuluisti     mente semper humili,
 - Favor ne daretur tibi     sed superno numini.
-
+- 
 - Hinc factus praesul mactusque     Deitatis munere,
 - Ut lucerna ardens fide,     claro lucens opere,
 - Iure celso candelabri     sublevaris stipite.
-
+- 
 - Tu redemptor captivorum,     consolator pauperum,
 - Tuque pater pupillorum,     tu mater orphanorum,
 - Vigor paralyticorum,     effugator daemonum,
-
+- 
 - Tu surdis auditum praestas,     tu caecos illuminas,
 - Lurida tu membra purgas,     mortuum resuscitas.
 - Verbis simul et exemplis     animas vivificas.
-
+- 
 - Nostra laus succumbit tantae     tibi datae gratiae,
 - Dum mundum reples doctrinae     virtutumque munere.
 - Famam diffundens et terrae,     et caeli per cardines,
-
+- 
 - Nunc precamur, Pater alme,     vota nostra suscipe.
 - Et Iesum benignum posce,     nobis semper parcere.
 - Ac post huius finem vitae,     tecum semper vivere,
-
+- 
 - Annue votis poscentum,     Deus factor omnium.
 - Esse credimus quem trinum     atque unum Dominum,
 - Manet quem laus ante aevum     nunc et in perpetuum. Amen.
