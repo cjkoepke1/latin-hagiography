@@ -11,7 +11,7 @@ source: Acta Sanctorum
 ---
 
 ## Hymnus I
-
+<p> </p>
 - Amande, Praesul optime,     dignus tuo qui nomine,
 - Amando Christum congruum,     sortitus es vocabulum.		
 - Audi tuorum dulcia,     vernaculorum carmina
@@ -39,7 +39,7 @@ source: Acta Sanctorum
 ---
 
 ## Hymnus II
-
+<p> </p>
 - Ave Pater, Pastor noster,     Pontifex egregie,
 - Ave carus amor noster,     dulce nomen, Amande.
 - Ave Praesul gloriose,     semper amantissime,
