@@ -245,6 +245,7 @@ title: "Latin Hagiography"
 
 ### 14. *A.d. XVI Kal. Mart.*
 
+- [Vita Valentini, episcopi et martyris Interamnae in Umbria (BHL 8460)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-valentini-episcopi)
 - [Acta Valentini, presbyteri et martyris Romae (BHL 8465)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-valentini-presbyteri)
 
 ---
