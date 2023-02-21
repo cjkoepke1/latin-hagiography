@@ -195,6 +195,8 @@ title: "Latin Hagiography"
 
 ### 19. *A.d. XIV Kal. Feb.*
 
+- [Vita Contexti, episcopi Baiocensis in Gallia (BHL 1942)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-contexti-episcopi)
+
 ### 20. *A.d. XIII Kal. Feb.*
 
 ### 21. *A.d. XII Kal. Feb.*
