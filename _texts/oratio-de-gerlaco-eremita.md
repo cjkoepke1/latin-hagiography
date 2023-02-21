@@ -14,6 +14,6 @@ source: Acta Sanctorum ex Breviario Ruraemundensi
 
 ---
 
-Deus, qui beatum Gerlacum eremitam tuum, per austerae paenitentiae rigorem, meritorum amplitudine, et miraculorum gloria sublimasti, da nobis famulis tuis, ut eius meritis ac patrocinio tuae maiestati reconciliati, tuae quoque indignationis iusta supplicia in hoc et futuro saeculo misericorditer evadere valeamus. Per Dominum […]
+Deus, qui beatum Gerlacum eremitam tuum, per austerae paenitentiae rigorem, meritorum amplitudine, et miraculorum gloria sublimasti, da nobis famulis tuis, ut eius meritis ac patrocinio tuae maiestati reconciliati, tuae quoque indignationis iusta supplicia in hoc et futuro saeculo misericorditer evadere valeamus. Per Dominum nostrum, etc.
 
 ---
