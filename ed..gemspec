@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
     "source_code_uri" => "https://github.com/minicomp/ed"
   }
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(404|assets|optional|_layouts|_includes|_sass|_texts|index|search|about|credits|documentation|atom|Gemfile|LICENSE|README)}i) }
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(404|assets|optional|_layouts|_includes|_sass|_saints|_texts|index|search|about|credits|documentation|atom|Gemfile|LICENSE|README)}i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.6"
 
