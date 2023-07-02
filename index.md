@@ -258,7 +258,7 @@ title: "Latin Hagiography"
 
 ### 17. *A.d. XVI Kal. Apr.*
 
-- [Epistola Patricii episcopi et apostoli Hiberniae ad Christianos Corotici tyranni subditos (BHL 6493)](https://cjkoepke1.github.io/latin-hagiography/texts/epistola-patricii-episcopi)
+- [Patricius (Patrick), bishop and apostle of Ireland](https://cjkoepke1.github.io/latin-hagiography/saints/patricius-episcopus)
 
 ---
 
