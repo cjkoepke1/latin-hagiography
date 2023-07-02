@@ -7,6 +7,6 @@ feast: February 6
 
 ---
 
-- [Hymn on Amandus, bishop of Tricht](https://cjkoepke1.github.io/latin-hagiography/texts/hymni-de-amando)
+- [Hymns on Amandus, bishop of Tricht](https://cjkoepke1.github.io/latin-hagiography/texts/hymni-de-amando)
 
 ---
