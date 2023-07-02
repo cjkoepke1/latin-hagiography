@@ -249,7 +249,7 @@ title: "Latin Hagiography"
 
 ### 14. *A.d. XVI Kal. Mart.*
 
-- [Vita Valentini, episcopi et martyris Interamnae in Umbria (BHL 8460)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-valentini-episcopi)
+- [Valentinus, bishop of Interamna (Terni) in Umbria and Roman martyr](https://cjkoepke1.github.io/latin-hagiography/saints/valentinus-episcopus-interamnae)
 - [Valentinus, priest and martyr of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/valentinus-presbyter-romae)
 
 ---
