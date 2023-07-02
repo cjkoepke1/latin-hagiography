@@ -15,7 +15,7 @@ title: "Latin Hagiography"
 
 ### 1. *Kalendis Ianuariis*
 
-- [Sermo Faustini episcopi in Kalendis Ianuariis](https://cjkoepke1.github.io/latin-hagiography/texts/sermo-faustini-in-kal-ian/)
+- [Sermon on the Kalends of January by Bishop Faustinus](https://cjkoepke1.github.io/latin-hagiography/texts/sermo-faustini-in-kal-ian/)
 - [Vita Clari, abbatis Viennensis in Gallia (BHL 1825)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-clari/)
 - [De Claro, monacho Salighenstadiensi in Germania](https://cjkoepke1.github.io/latin-hagiography/texts/de-claro-salighenstadiensi)
 - [Vita Concordii, presbyteris et martyris Spoleti in Umbria (BHL 1906)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-concordii/)
