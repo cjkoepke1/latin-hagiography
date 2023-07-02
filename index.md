@@ -245,7 +245,7 @@ title: "Latin Hagiography"
 
 ### 6. *A.d. VIII Id. Feb.*
 
-- [Amandus, bishop of Tricht (Maastricht)](https://cjkoepke1.github.io/latin-hagiography/saints/amandus-episcopus-traiectensis)
+- [Amandus, bishop of Traiectum (Maastricht)](https://cjkoepke1.github.io/latin-hagiography/saints/amandus-episcopus-traiectensis)
 
 ### 14. *A.d. XVI Kal. Mart.*
 
