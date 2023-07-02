@@ -3,7 +3,7 @@ layout: poem
 title: Epitaphium Eutychii, martyris Romae
 bhl: N/A
 feast: February 4
-author: Damasus
+author: Damasus I
 editor: Carson Koepke
 source: Acta Sanctorum
 ---
