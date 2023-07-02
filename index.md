@@ -245,7 +245,7 @@ title: "Latin Hagiography"
 
 ### 6. *A.d. VIII Id. Feb.*
 
-- [Hymni de Amando, episcopo Traiectensi Elenone in Belio](https://cjkoepke1.github.io/latin-hagiography/texts/hymni-de-amando)
+- [Amandus, bishop of Tricht (Maastricht)](https://cjkoepke1.github.io/latin-hagiography/saints/amandus-episcopus-traiectensis)
 
 ### 14. *A.d. XVI Kal. Mart.*
 
