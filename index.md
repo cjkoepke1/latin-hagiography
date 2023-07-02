@@ -231,7 +231,7 @@ title: "Latin Hagiography"
 
 - [Vita Agrippani, episcopi et martyris Podii in Gallia (BHL 171)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-agrippani-episcopi)
 - [Elogium de Ignatio Theophoro, episcopo Antiocheno et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/elogium-de-ignatio-theophoro)
-- [Epitaphium Wolfholdi, presbyteri in Bavaria](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-wolfholdi)
+- [Wolfholdus, priest in Bavaria](https://cjkoepke1.github.io/latin-hagiography/saints/wolfholdus-presbyter)
 
 ### 2. *A.d. IV Non. Feb.*
 
