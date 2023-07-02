@@ -239,7 +239,7 @@ title: "Latin Hagiography"
 
 ### 4. *Pridie Non. Feb.*
 
-- [Epitaphium Eutychii, martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-eutychii)
+- [Eutychius, martyr of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/eutychius-martyr-romae)
 
 ### 5. *Nonis Februariis*
 
