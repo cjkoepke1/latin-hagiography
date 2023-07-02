@@ -229,7 +229,7 @@ title: "Latin Hagiography"
 
 ### 1. *Kalendis Februariis*
 
-- [Vita Agrippani, episcopi et martyris Podii in Gallia (BHL 171)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-agrippani-episcopi)
+- [Agrippanus, bishop and martyr of Anicium (Le Puy-en-Velay) in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/agrippanus-aniciensis)
 - [Ignatius Theophorus, bishop of Antioch and Roman martyr](https://cjkoepke1.github.io/latin-hagiography/saints/ignatius-theophorus)
 - [Wolfholdus, priest in Bavaria](https://cjkoepke1.github.io/latin-hagiography/saints/wolfholdus-presbyter)
 
