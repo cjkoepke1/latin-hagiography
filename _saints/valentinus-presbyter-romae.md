@@ -7,6 +7,6 @@ feast: March 14
 
 ---
 
-- [Acta Valentini, presbyteri et martyris Romae (BHL 8465)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-valentini-presbyteri)
+- [Acts of Valentinus (BHL 8465)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-valentini-presbyteri)
 
 ---
