@@ -185,7 +185,7 @@ title: "Latin Hagiography"
 - [De Marcello, papa et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcello-papa/)
 - [Epitaphium Marcelli, papae et martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-marcelli-papae/)
 - [Epitome de Titiano, episcopo Opitergiensi Venetiae (BHL 8304)](https://cjkoepke1.github.io/latin-hagiography/texts/epitome-de-titiano-opitergiensi/)
-- [Vita Titiani, episcopi Opitergiensis Venetiae](https://cjkoepke1.github.io/latin-hagiography/texts/vita-titiani-opitergiensis/)
+- [Titianus, bishop of Opitergium (Oderzo) in Venetia](https://cjkoepke1.github.io/latin-hagiography/saints/titianus-opiterginus/)
 
 ### 17. *A.d. XVI Kal. Feb.*
 
