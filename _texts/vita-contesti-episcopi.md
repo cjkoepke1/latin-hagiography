@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Vita Contexti, episcopi Baiocensis in Gallia
+title: Vita Contesti, episcopi Baiocensis in Gallia
 bhl: 1942
 feast: January 19
 author: Anonymous
