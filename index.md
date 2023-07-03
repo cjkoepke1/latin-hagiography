@@ -178,7 +178,6 @@ title: "Latin Hagiography"
 
 ### 16. *A.d. XVII Kal. Feb.*
 
-- [Euchariston Sidonii Apollinaris ad Faustum, episcopum Reiensem in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/euchariston-ad-faustum/)
 - [Honoratus, archbishop of Arelate (Arles)](https://cjkoepke1.github.io/latin-hagiography/saints/honoratus-arelatensis/)
 - [Jacobus, bishop of Tarantasia (Moûtiers) in Sabaudia (Savoie)](https://cjkoepke1.github.io/latin-hagiography/saints/iacobus-tarentasiensis/)
 - [Marcellus I, pope and martyr of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/marcellus-papa/)
@@ -280,6 +279,10 @@ title: "Latin Hagiography"
 ---
 
 ## September (*Mensis September*)
+
+### 28. *A.d. IV Kal. Oct.*
+
+- [Faustus, bishop of Regium (Riez) in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/faustus-reiensis/)
 
 ---
 
