@@ -2,7 +2,7 @@
 layout: poem
 title: Euchariston ad Faustum, episcopum Reiensem in Gallia
 bhl: N/A
-feast: January 16
+feast: September 28
 author: Sidonius Apollinaris
 editor: W.B. Anderson; Carson Koepke
 source: Acta Sanctorum; Perseus
