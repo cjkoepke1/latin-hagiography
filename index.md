@@ -207,7 +207,7 @@ title: "Latin Hagiography"
 
 ### 24. *A.d. IX Kal. Feb.*
 
-- [Orationes de Exuperantio, episcopo Cingulano in Piceno (BHL 2808)](https://cjkoepke1.github.io/latin-hagiography/texts/orationes-de-exuperantio)
+- [Exuperantius, bishop of Cingulum (Cingoli) in Picenum](https://cjkoepke1.github.io/latin-hagiography/saints/exuperantius-cingulanus)
 
 ### 25. *A.d. VIII Kal. Feb.*
 
