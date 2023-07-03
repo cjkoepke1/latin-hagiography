@@ -191,7 +191,7 @@ title: "Latin Hagiography"
 
 ### 19. *A.d. XIV Kal. Feb.*
 
-- [Contestus, bishop of Bayeux in Gallia (BHL 1942)](https://cjkoepke1.github.io/latin-hagiography/saints/contestus-baiocensis)
+- [Contestus, bishop of Augustodurum (Bayeux) in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/contestus-baiocensis)
 
 ### 20. *A.d. XIII Kal. Feb.*
 
