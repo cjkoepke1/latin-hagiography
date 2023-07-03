@@ -181,7 +181,7 @@ title: "Latin Hagiography"
 - [Euchariston Sidonii Apollinaris ad Faustum, episcopum Reiensem in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/euchariston-ad-faustum/)
 - [Translatio Honorati, archiepiscopi Arelatensis (BHL 3978)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-honorati-arelatensis/)
 - [Sermo in translatione Honorati, archiepiscopi Arelatensis (BHL 3979)](https://cjkoepke1.github.io/latin-hagiography/texts/sermo-in-translatione-honorati/)
-- [Vita Iacobi, episcopi Tarentasiensis in Sabaudia (BHL 4112)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-iacobi-tarentasiensis/)
+- [Jacobus, bishop of Tarantasia (Moûtiers) in Sabaudia (Savoie)](https://cjkoepke1.github.io/latin-hagiography/saints/iacobus-tarentasiensis/)
 - [Marcellus I, pope and martyr of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/marcellus-papa/)
 - [Titianus, bishop of Opitergium (Oderzo) in Venetia](https://cjkoepke1.github.io/latin-hagiography/saints/titianus-opiterginus/)
 
