@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Contestus, bishop of Bayeux in Gallia
+title: Contestus, bishop of Augustodurum (Bayeux) in Gallia
 bhl: 1942
 feast: January 19
 ---
