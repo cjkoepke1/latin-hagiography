@@ -182,8 +182,7 @@ title: "Latin Hagiography"
 - [Translatio Honorati, archiepiscopi Arelatensis (BHL 3978)](https://cjkoepke1.github.io/latin-hagiography/texts/translatio-honorati-arelatensis/)
 - [Sermo in translatione Honorati, archiepiscopi Arelatensis (BHL 3979)](https://cjkoepke1.github.io/latin-hagiography/texts/sermo-in-translatione-honorati/)
 - [Vita Iacobi, episcopi Tarentasiensis in Sabaudia (BHL 4112)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-iacobi-tarentasiensis/)
-- [De Marcello, papa et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcello-papa/)
-- [Epitaphium Marcelli, papae et martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-marcelli-papae/)
+- [Marcellus I, pope and martyr of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/marcellus-papa/)
 - [Titianus, bishop of Opitergium (Oderzo) in Venetia](https://cjkoepke1.github.io/latin-hagiography/saints/titianus-opiterginus/)
 
 ### 17. *A.d. XVI Kal. Feb.*
