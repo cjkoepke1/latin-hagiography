@@ -7,6 +7,6 @@ feast: January 24
 
 ---
 
-- [Orations on Exuperantius (BHL 2808)](https://cjkoepke1.github.io/latin-hagiography/texts/orationes-de-exuperantio)
+- [Orations on Exuperantius](https://cjkoepke1.github.io/latin-hagiography/texts/orationes-de-exuperantio)
 
 ---
