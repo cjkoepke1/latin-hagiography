@@ -184,7 +184,6 @@ title: "Latin Hagiography"
 - [Vita Iacobi, episcopi Tarentasiensis in Sabaudia (BHL 4112)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-iacobi-tarentasiensis/)
 - [De Marcello, papa et martyre Romae](https://cjkoepke1.github.io/latin-hagiography/texts/de-marcello-papa/)
 - [Epitaphium Marcelli, papae et martyris Romae](https://cjkoepke1.github.io/latin-hagiography/texts/epitaphium-marcelli-papae/)
-- [Epitome de Titiano, episcopo Opitergiensi Venetiae (BHL 8304)](https://cjkoepke1.github.io/latin-hagiography/texts/epitome-de-titiano-opitergiensi/)
 - [Titianus, bishop of Opitergium (Oderzo) in Venetia](https://cjkoepke1.github.io/latin-hagiography/saints/titianus-opiterginus/)
 
 ### 17. *A.d. XVI Kal. Feb.*
