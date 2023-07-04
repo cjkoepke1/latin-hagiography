@@ -166,7 +166,7 @@ title: "Latin Hagiography"
 ### 14. *A.d. XIX Kalendas Februarias*
 
 - [Engelmarus, hermit and martyr in Bavaria](https://cjkoepke1.github.io/latin-hagiography/saints/engelmarus-martyr/)
-- [Acta Felicis, confessoris et presbyteri Romani Nolae (BHL 2885)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-felicis-romani/)
+- [Felix, confessor and priest of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/felix-romanus/)
 - [Acta Pontiani, martyris Spoleti in Italia (BHL 6891)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-pontiani/)
 
 ### 15. *A.d. XVIII Kal. Feb.*
