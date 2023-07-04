@@ -184,7 +184,7 @@ title: "Latin Hagiography"
 
 ### 17. *A.d. XVI Kal. Feb.*
 
-- [Mildwida, virgin in Anglia](https://cjkoepke1.github.io/latin-hagiography/saints/mildwida-virgen/)
+- [Mildwida, virgin in Anglia](https://cjkoepke1.github.io/latin-hagiography/saints/mildwida-virgo/)
 
 ### 18. *A.d. XV Kal. Feb.*
 
