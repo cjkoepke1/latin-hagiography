@@ -171,7 +171,7 @@ title: "Latin Hagiography"
 
 ### 15. *A.d. XVIII Kal. Feb.*
 
-- [Bonitus, bishop of Auvergne in Gallia](https://cjkoepke1.github.io/latin-hagiography/texts/bonitus-arvernus/)
+- [Bonitus, bishop of Auvergne in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/bonitus-arvernus/)
 - [Inventio virginum Maurae et Brittae, apud Turones in Gallia (BHL 5726)](https://cjkoepke1.github.io/latin-hagiography/texts/inventio-maurae-brittae/)
 - [Passio Secundinae, virginis et martyris Anagniae in Latio](https://cjkoepke1.github.io/latin-hagiography/texts/passio-secundinae/)
 
