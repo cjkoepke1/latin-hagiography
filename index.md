@@ -167,7 +167,7 @@ title: "Latin Hagiography"
 
 - [Engelmarus, hermit and martyr in Bavaria](https://cjkoepke1.github.io/latin-hagiography/saints/engelmarus-martyr/)
 - [Felix, confessor and priest of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/felix-romanus/)
-- [Acta Pontiani, martyris Spoleti in Italia (BHL 6891)](https://cjkoepke1.github.io/latin-hagiography/texts/acta-pontiani/)
+- [Pontianus, martyr of Spoletum (Spoleto) in Italia](https://cjkoepke1.github.io/latin-hagiography/saints/pontianus-spoleti/)
 
 ### 15. *A.d. XVIII Kal. Feb.*
 
