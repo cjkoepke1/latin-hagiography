@@ -25,8 +25,7 @@ title: "Latin Hagiography"
 - [Commemoratio Praeputii Iesu Christi (BHL 4161)](https://cjkoepke1.github.io/latin-hagiography/texts/commemoratio-praeputii-christi/)
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
 - [Vita Mochuae, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
-- [Vita Odilonis, abbatis Cluniacensis Silviniaci in Gallia (BHL 6281)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-odilonis/)
-- [Elevatio Odilonis, abbatis Cluniacensis Silviniaci in Gallia (BHL 6284)](https://cjkoepke1.github.io/latin-hagiography/texts/elevatio-odilonis/)
+- [Odilo, abbot of Cluny and Silviniacus (Souvigny) in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/odilo-cluniacensis/)
 
 ### 2. *Ante diem IV Nonas Ianuarias*
 
