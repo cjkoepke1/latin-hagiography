@@ -173,7 +173,7 @@ title: "Latin Hagiography"
 
 - [Bonitus, bishop of Auvergne in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/bonitus-arvernus/)
 - [Maura and Britta, virgins of Turonus (Tours) in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/maura-et-britta/)
-- [Passio Secundinae, virginis et martyris Anagniae in Latio](https://cjkoepke1.github.io/latin-hagiography/texts/passio-secundinae/)
+- [Secundina, virgin and martyr of Anagnia (Anagni) in Latium](https://cjkoepke1.github.io/latin-hagiography/saints/secundina-anagniae/)
 
 ### 16. *A.d. XVII Kal. Feb.*
 
