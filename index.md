@@ -293,6 +293,10 @@ title: "Latin Hagiography"
 
 ## December (*Mensis December*)
 
+### 15. *A.d. XVIII Kal. Ian.*
+
+- [A Christian slave-girl captive among the Iberians across the Pontus](https://cjkoepke1.github.io/latin-hagiography/saints/ancilla-captiva-apud-iberos/)
+
 ---
 
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
