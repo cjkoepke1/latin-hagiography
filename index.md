@@ -299,4 +299,10 @@ title: "Latin Hagiography"
 
 ---
 
+## Anonymous saints
+
+- [The woman beaten seven times](https://cjkoepke1.github.io/latin-hagiography/saints/mulier-septies-percussa/)
+
+---
+
 <br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
