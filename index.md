@@ -19,7 +19,7 @@ title: "Latin Hagiography"
 - [Clarus, abbot of Vienne in Gaul](https://cjkoepke1.github.io/latin-hagiography/saints/clarus-viennensis/)
 - [Clarus, monk of Seligenstadt in Germany](https://cjkoepke1.github.io/latin-hagiography/saints/clarus-selighenstadiensis/)
 - [Concordius, priest and martyr of Spoleto in Umbria](https://cjkoepke1.github.io/latin-hagiography/saints/concordius-spoleti/)
-- [Vita Eugendi, abbatis monasterii Sancti Claudii in Burgundia (BHL 2665)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-eugendi/)
+- [Eugendus, abbot of Condat Abbey in Burgundy](https://cjkoepke1.github.io/latin-hagiography/saints/eugendus-iurensis/)
 - [Vita Fulgentii, episcopi Ruspensis in Africa (BHL 3208)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-fulgentii/)
 - [Vita Guilielmi, abbatis Divionensis in Burgundia (BHL 8907)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-guilielmi/)
 - [Commemoratio Praeputii Iesu Christi (BHL 4161)](https://cjkoepke1.github.io/latin-hagiography/texts/commemoratio-praeputii-christi/)
