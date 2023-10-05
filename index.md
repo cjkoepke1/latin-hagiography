@@ -22,7 +22,7 @@ title: "Latin Hagiography"
 - [Eugendus, abbot of Condat Abbey in Burgundy](https://cjkoepke1.github.io/latin-hagiography/saints/eugendus-iurensis/)
 - [Fulgentius, bishop of Ruspe in Africa](https://cjkoepke1.github.io/latin-hagiography/saints/fulgentius-ruspensis/)
 - [Prepuce of Jesus Christ](https://cjkoepke1.github.io/latin-hagiography/saints/praeputium-christi/)
-- [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
+- [Martina, virgin martyr of Rome](https://cjkoepke1.github.io/latin-hagiography/saints/martina-romae/)
 - [Vita Mochuae, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
 - [Odilo, abbot of Cluny and Silviniacus (Souvigny) in Gaul](https://cjkoepke1.github.io/latin-hagiography/saints/odilo-cluniacensis/)
 - [William of Dijon, abbot of St. Benignus Abbey in Burgundy](https://cjkoepke1.github.io/latin-hagiography/saints/guilielmus-divionensis/)
