@@ -7,6 +7,6 @@ feast: January 1
 
 ---
 
-- [Clarus, monk of Seligenstadt](https://cjkoepke1.github.io/latin-hagiography/texts/de-claro-salighenstadiensi)
+- [On Clarus, monk of Seligenstadt](https://cjkoepke1.github.io/latin-hagiography/texts/de-claro-salighenstadiensi)
 
 ---
