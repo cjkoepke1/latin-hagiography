@@ -21,7 +21,7 @@ title: "Latin Hagiography"
 - [Concordius, priest and martyr of Spoleto in Umbria](https://cjkoepke1.github.io/latin-hagiography/saints/concordius-spoleti/)
 - [Eugendus, abbot of Condat Abbey in Burgundy](https://cjkoepke1.github.io/latin-hagiography/saints/eugendus-iurensis/)
 - [Fulgentius, bishop of Ruspe in Africa](https://cjkoepke1.github.io/latin-hagiography/saints/fulgentius-ruspensis/)
-- [Prepuce of Jesus Christ](https://cjkoepke1.github.io/latin-hagiography/texts/praeputium-christi/)
+- [Prepuce of Jesus Christ](https://cjkoepke1.github.io/latin-hagiography/saints/praeputium-christi/)
 - [Vita Martinae, virginis et martyris Romae (BHL 5587)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-martinae/)
 - [Vita Mochuae, abbatis Laegsiensis in Hibernia (BHL 5977)](https://cjkoepke1.github.io/latin-hagiography/texts/vita-mochuae/)
 - [Odilo, abbot of Cluny and Silviniacus (Souvigny) in Gallia](https://cjkoepke1.github.io/latin-hagiography/saints/odilo-cluniacensis/)
