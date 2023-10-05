@@ -1,7 +1,7 @@
 ---
 layout: narrative
 title: Clarus, monk of Seligenstadt in Germany
-bhl: *N/A*
+bhl: N/A
 feast: January 1
 ---
 
