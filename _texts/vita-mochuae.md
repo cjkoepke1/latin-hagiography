@@ -1,11 +1,11 @@
 ---
 layout: narrative
-title: Vita Mochuae sive Cuani, abbatis Laegsiensis in Hibernia
+title: Vita Mochuae sive Cuani, abbatis in Hibernia
 bhl: 5977
 author: Anonymous
 feast: January 1
 editor: Carson Koepke
-source: Editus ex Actis Sanctorum
+source: Acta Sanctorum
 ---
 
 ---
