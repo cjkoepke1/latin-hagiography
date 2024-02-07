@@ -2,7 +2,7 @@
 layout: narrative
 title: Valentinus, priest and martyr of Rome
 bhl: 8463, 8464, 8465, 8466
-feast: March 14
+feast: February 14
 ---
 
 ---
