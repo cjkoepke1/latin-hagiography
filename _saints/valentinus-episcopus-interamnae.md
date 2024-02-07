@@ -2,7 +2,7 @@
 layout: narrative
 title: Valentinus, bishop of Interamna (Terni) in Umbria and Roman martyr
 bhl: 8460, 8461
-feast: March 14
+feast: February 14
 ---
 
 ---
